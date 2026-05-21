@@ -1,5 +1,0 @@
-Metric	Count
-Total_snps	49006
-piQTL_pQTL_snps	11941
-eQTL_snps	42052
-Common_snps	4987

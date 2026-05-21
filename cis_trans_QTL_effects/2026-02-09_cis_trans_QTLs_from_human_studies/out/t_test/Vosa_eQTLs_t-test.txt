@@ -1,3 +1,0 @@
-t-Test for the cis and trans Vosa eQTLs
-t-statistic: 398.1717668358688
-p-value: 0.0

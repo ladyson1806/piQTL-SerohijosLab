@@ -1,3 +1,0 @@
-t-Test for the cis and trans Teyssonniere pQTLs (only piQTL 44 genes)
-t-statistic: nan
-p-value: nan
