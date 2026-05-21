@@ -1,0 +1,45 @@
+================================================================================
+OVERLAP ANALYSIS CONFIGURATION AND SUMMARY
+================================================================================
+Timestamp: 2026-02-16 18:04:52
+
+CONFIGURATION:
+--------------------------------------------------------------------------------
+Random seed: 42
+Number of iterations: 10000
+Number of piQTL SNPs sampled per iteration: 354
+
+INPUT FILES:
+--------------------------------------------------------------------------------
+piQTL annotation file: out/standardized_tables/piQTL_SNP_annotation.csv
+  - Total SNPs: 11528
+pQTL results file: out/standardized_tables/pQTL_results.csv
+  - Total unique SNP markers: 2373
+eQTL results file: out/standardized_tables/eQTL_results.csv
+  - Total unique SNP markers: 6281
+
+OUTPUT FILES:
+--------------------------------------------------------------------------------
+Overlap counts: out/randomized_overlap_counts_exact/overlap_counts_results.csv
+Selected SNPs: out/randomized_overlap_counts_exact/randomly_selected_piQTL_SNPs.csv
+Config log: out/randomized_overlap_counts_exact/config.txt
+
+SUMMARY STATISTICS:
+--------------------------------------------------------------------------------
+
+piQTL → pQTL overlaps:
+  Mean: 68.94 ± 7.37
+  Range: 43 - 99
+  Percentage of sampled SNPs: 19.47% ± 2.08%
+
+piQTL → eQTL overlaps:
+  Mean: 31.62 ± 5.27
+  Range: 13 - 53
+  Percentage of sampled SNPs: 8.93% ± 1.49%
+
+piQTL overlaps with BOTH pQTL AND eQTL:
+  Mean: 7.11 ± 2.62
+  Range: 0 - 20
+  Percentage of sampled SNPs: 2.01% ± 0.74%
+
+================================================================================

@@ -1,0 +1,3 @@
+t-Test for the cis and trans Jakobson pQTLs (only piQTL 44 genes)
+t-statistic: 0.905449343617543
+p-value: 0.45989194279255985

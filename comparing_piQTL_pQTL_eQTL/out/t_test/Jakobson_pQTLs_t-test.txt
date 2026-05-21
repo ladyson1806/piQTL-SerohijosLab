@@ -1,0 +1,3 @@
+t-Test for the cis and trans Jakobson pQTLs
+t-statistic: 3.1598833846226975
+p-value: 0.0019368557573247647

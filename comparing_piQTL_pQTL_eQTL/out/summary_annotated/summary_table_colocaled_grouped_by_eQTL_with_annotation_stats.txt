@@ -1,0 +1,4 @@
+Total SNPs: 49119
+SNPs in Besse et al.: 12054
+SNPs shared among all three studies: 5008
+SNPs with all three QTL effects: 705
