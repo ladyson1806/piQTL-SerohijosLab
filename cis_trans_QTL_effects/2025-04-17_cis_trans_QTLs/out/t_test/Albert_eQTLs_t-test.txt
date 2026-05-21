@@ -1,0 +1,3 @@
+t-Test for the cis and trans Albert eQTLs (only PPI-geenes)
+t-statistic: 3.948703609833811
+p-value: 0.0005440221015089832

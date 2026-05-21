@@ -1,0 +1,17 @@
+ANOVA (one-way) on piQTL_EFFECTSIZE_abs by overlap_category
+Groups tested: both_eQTL_pQTL, eQTL_only, pQTL_only, piQTL_only
+F-statistic: 5.7807
+P-value: 0.000635961
+
+Tukey HSD (alpha=0.05):
+      Multiple Comparison of Means - Tukey HSD, FWER=0.05       
+================================================================
+    group1       group2   meandiff p-adj   lower   upper  reject
+----------------------------------------------------------------
+both_eQTL_pQTL  eQTL_only  -0.0933 0.8193 -0.3686   0.182  False
+both_eQTL_pQTL  pQTL_only   0.1121  0.634 -0.1304  0.3546  False
+both_eQTL_pQTL piQTL_only   0.0159 0.9982  -0.221  0.2529  False
+     eQTL_only  pQTL_only   0.2054 0.0045   0.048  0.3628   True
+     eQTL_only piQTL_only   0.1092 0.2327 -0.0394  0.2579  False
+     pQTL_only piQTL_only  -0.0961 0.0033 -0.1679 -0.0244   True
+----------------------------------------------------------------

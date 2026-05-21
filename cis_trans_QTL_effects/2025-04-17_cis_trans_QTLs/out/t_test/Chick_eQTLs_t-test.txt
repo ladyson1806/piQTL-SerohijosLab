@@ -1,0 +1,3 @@
+t-Test for the cis and trans Chick eQTLs (Inbred mouse eQTL)
+t-statistic: 46.49882332017208
+p-value: 0.0

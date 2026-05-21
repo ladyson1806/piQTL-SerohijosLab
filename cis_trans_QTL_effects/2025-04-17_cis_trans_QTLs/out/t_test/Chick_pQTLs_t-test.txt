@@ -1,0 +1,3 @@
+t-Test for the cis and trans Chick pQTLs (Inbred mouse pQTL)
+t-statistic: 31.933588272953287
+p-value: 1.335250323288403e-190
