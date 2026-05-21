@@ -20,7 +20,7 @@ This repository is a methods and usage resource. It does not include all analyse
 
 The following directories contain independent analysis modules for QTL SNP comparison tasks.
 
-### 1) `cis_trans_QTL_effects/`
+### 1) `/analyses/cis_trans_QTL_effects/`
 
 Role: cis/trans effect-size processing and comparison workflows for multiple source datasets.
 
@@ -30,7 +30,7 @@ Contains independent dated modules:
 - `2026-02-03_cis_trans_QTLs_in_natural_isolates/`
 - `2026-02-09_cis_trans_QTLs_from_human_studies/`
 
-### 2) `comparing_piQTL_pQTL_eQTL/`
+### 2) `/analyses/comparing_piQTL_pQTL_eQTL/`
 
 Role: build exact-match and LD-colocalized overlap tables across piQTL, pQTL, and eQTL studies.
 
@@ -43,7 +43,7 @@ Main scripts:
 - `05_compare_piQTL_based_on_QTL_overlaps.sh`
 - `06_add_QTL_ORF_positions.sh`
 
-### 3) `QTL_mapping_on_genome/`
+### 3) `/analyses/QTL_mapping_on_genome/`
 
 Role: generate a genome-wide summary table and visualization panels for exact/colocal QTL overlap counts.
 
@@ -53,7 +53,7 @@ Main scripts:
 - `01_create_qtl_summary_table.py`
 - `02_visualize_qtl_overlap.py`
 
-### 4) `QTL_SNPs_overlap_enrichments_bootstrapping/`
+### 4) `/analyses/QTL_SNPs_overlap_enrichments_bootstrapping/`
 
 Role: test overlap enrichment with randomized SNP sampling and empirical p-value calculation.
 
