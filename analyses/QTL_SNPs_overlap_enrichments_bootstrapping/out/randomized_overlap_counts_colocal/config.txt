@@ -1,0 +1,45 @@
+================================================================================
+CO-LOCAL OVERLAP ANALYSIS CONFIGURATION AND SUMMARY
+================================================================================
+Timestamp: 2026-02-16 18:12:00
+
+CONFIGURATION:
+--------------------------------------------------------------------------------
+Random seed: 42
+Number of iterations: 10000
+Number of piQTL SNPs sampled per iteration: 354
+
+INPUT FILES:
+--------------------------------------------------------------------------------
+piQTL annotation file: out/standardized_tables/piQTL_SNP_annotation.csv
+  - Total SNPs: 11528
+pQTL results file: out/standardized_tables/pQTL_results.csv
+  - Total rows: 2373
+eQTL results file: out/standardized_tables/eQTL_results.csv
+  - Total rows: 30693
+
+OUTPUT FILES:
+--------------------------------------------------------------------------------
+Overlap counts: out/randomized_overlap_counts_colocal/overlap_counts_results.csv
+Selected SNPs: out/randomized_overlap_counts_colocal/randomly_selected_piQTL_SNPs.csv
+Config log: out/randomized_overlap_counts_colocal/config.txt
+
+SUMMARY STATISTICS:
+--------------------------------------------------------------------------------
+
+piQTL → pQTL co-local overlaps:
+  Mean: 233.91 ± 8.91
+  Range: 195 - 265
+  Percentage of sampled SNPs: 66.08% ± 2.52%
+
+piQTL → eQTL co-local overlaps:
+  Mean: 264.73 ± 8.09
+  Range: 232 - 293
+  Percentage of sampled SNPs: 74.78% ± 2.29%
+
+piQTL co-local overlaps with BOTH pQTL AND eQTL:
+  Mean: 194.23 ± 9.32
+  Range: 157 - 226
+  Percentage of sampled SNPs: 54.87% ± 2.63%
+
+================================================================================
