@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="./assets/main.css">
+    <style>
+      body{
+          margin: 0; /* Remove default margin */
+      }
+      iframe{      
+          display: block;  /* iframes are inline by default */   
+          height: 100vh;  /* Set height to 100% of the viewport height */   
+          width: 100vw;  /* Set width to 90% of the viewport width */     
+          border: none; /* Remove default border */
+          background: lightgrey; /* Just for styling */
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <header class="site-header">
+
+      <div class="wrapper"><a class="site-title" rel="author" href="https://ladyson1806.github.io/piQTL-SerohijosLab/">piQTL</a><nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+            <label for="nav-trigger">
+              <span class="menu-icon">
+                <svg viewBox="0 0 18 15" width="18px" height="15px">
+                  <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+                </svg>
+              </span>
+            </label>
+    
+            <div class="trigger"><a class="page-link" href="/genome_browser">Genome browser</a><a class="page-link" href="/manhattan">Manhattan plots</a></div>
+          </nav></div>
+    </header>
+
+
+  <div class="home">
+    <div class="wrapper">
+      <header >
+      <h1>The piQTL project</h1>
+      
+          <p>The protein-protein interaction-based QTL or piQTL project aims to understand how genetic variations across of a population of yeast inbreds could potentially influence the quantitative variation of the protein-protein complex formation.</p>
+      
+      <br><br>
+      <h2 id="description">Description</h2>
+
+<p><strong>Manhattan plots</strong> are showing the location of piQTLs along the entire yeast genome. 
+piQTLs are defined as peaks that pass by the thresold shown by the blue line.</p>
+
+<p><strong>QQ plots</strong> (for quantile-quantile plot) is a probability plot, that show the comparison between the expected and the experimental p-values resulting from the association tests that compare the variance of the quantity of PPI complexes and between the different type of genotype.</p>
+
+<p><em>The graphs are interactive.</em></p>
+
+<h2 id="instruction">Instruction</h2>
+
+<p>For loading the piQTLs from a specific PPI under a specific drug, select your PPI of interest and your drug of interest by selecting them from the choice boxes.</p>
+
+    </div>
+  </div>
+
+</body>
+
+<!-- Load the shiny app here -->
+
+  <iframe frameborder="no" src=https://serohijos-piqtl.shinyapps.io/piQTL_manhattan/></iframe>
+
+
+
+
+<footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+    <h4><b><u>Contact</u></b></h4>
+    Principal Investigators:
+    <li><a class="u-email" href="mailto:adrian.serohijos@umontreal.ca">Adrian Serohijos</a></li>
+    <li><a class="u-email" href="mailto:stephen.michnick@umontreal.ca">Stephen Michnick</a></li>
+    <br><br>
+    <b>Université de Montréal</b>
+    <br>
+    <i>Département de Biochimie et Médecine Moléculaire</i>
+    <!-- <li><a class="u-email" href="mailto:savandara.besse@umontreal.ca">Savandara Besse</a></li> -->
+  </div>
+</footer>
+</html>

@@ -5,8 +5,8 @@ layout: default
 <!-- PICTURE HERE -->
 
 ## Data Visualization
-- <a class="page-link" href="https://ladyson1806.github.io/SerohijosLab-piQTL/genome_browser">Genome Browser</a>              
-- <a class="page-link" href="https://ladyson1806.github.io/SerohijosLab-piQTL/manhattan">Manhattan plots</a> 
+- <a class="page-link" href="https://ladyson1806.github.io/piQTL-SerohijosLab/genome_browser">Genome Browser</a>              
+- <a class="page-link" href="https://ladyson1806.github.io/piQTL-SerohijosLab/manhattan">Manhattan plots</a> 
 
 ## Related links
 <!-- - <a href=" ">Preprint</a> -->
