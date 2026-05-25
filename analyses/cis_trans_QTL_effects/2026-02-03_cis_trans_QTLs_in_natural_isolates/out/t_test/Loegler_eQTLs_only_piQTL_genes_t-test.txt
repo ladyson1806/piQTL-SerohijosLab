@@ -1,3 +1,0 @@
-t-Test for the cis and trans Loegler eQTLs (only piQTL 44 genes)
-t-statistic: 2.115576462469847
-p-value: 0.056720892124943405

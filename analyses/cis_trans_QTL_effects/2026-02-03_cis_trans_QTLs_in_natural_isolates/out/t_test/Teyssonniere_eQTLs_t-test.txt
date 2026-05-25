@@ -1,3 +1,0 @@
-t-Test for the cis and trans Teyssonniere eQTLs
-t-statistic: 4.221533403546983
-p-value: 0.0001062225681205908

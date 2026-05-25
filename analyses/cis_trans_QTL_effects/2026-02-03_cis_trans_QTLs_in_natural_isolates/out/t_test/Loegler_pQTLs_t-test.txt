@@ -1,3 +1,0 @@
-t-Test for the cis and trans Loegler pQTLs
-t-statistic: 7.705335983126854
-p-value: 3.0352069923681946e-13

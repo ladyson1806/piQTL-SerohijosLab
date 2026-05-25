@@ -1,3 +1,0 @@
-t-Test for the cis and trans Li pQTLs
-t-statistic: 33.14383299361376
-p-value: 3.7921154549140572e-196
