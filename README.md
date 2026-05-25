@@ -31,7 +31,7 @@ shiny_apps/
 └── piQTL_genome_browser/    # Interactive genome browser for piQTL tracks (R Shiny)
 
 data/                        # Reference annotations and genotype information
-results/                     # Pipeline outputs (barcode counts → piQTLs → networks)
+results/                     # Pipeline outputs
 docs/                        # GitHub Pages source (Jekyll)
 figures/                     # Manuscript figures
 ```
@@ -122,7 +122,7 @@ pip install pandas numpy scipy matplotlib seaborn plotly tqdm roman
 - **Raw sequencing data:** available on NCBI BioProject _(link to be added)_.
 - **Genotype matrix:** `data/genotype_information/piQTL_genotype_matrix_dec2022.txt` — derived from She & Jarosz 2018 (*S. cerevisiae* inbred panel).
 - **Genome annotations:** `data/genome_annotations/` — SGD R64-3-1 ORF annotations, LD block definitions, and gene-by-strain tables.
-- **piQTL results:** `results/05_piQTLs/` — final significant piQTLs after masking and LD clumping.
+
 
 ---
 
