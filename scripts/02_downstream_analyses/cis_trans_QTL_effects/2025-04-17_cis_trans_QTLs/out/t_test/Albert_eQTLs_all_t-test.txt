@@ -1,0 +1,3 @@
+t-Test for the cis and trans Albert eQTLs (all genes)
+t-statistic: 36.71159019508909
+p-value: 2.1940001888201455e-245

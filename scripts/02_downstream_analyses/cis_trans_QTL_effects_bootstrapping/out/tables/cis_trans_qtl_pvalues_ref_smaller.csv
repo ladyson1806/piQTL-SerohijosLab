@@ -1,0 +1,25 @@
+metric,metric_label,qtl_type,scope,reference_value,p_value_ref_smaller,p_value_ref_smaller_vs_pqtl,p_value_ref_smaller_vs_eqtl,n_sim_gt,n_sim_gt_vs_pqtl,n_sim_gt_vs_eqtl,n_total,n_total_vs_pqtl,n_total_vs_eqtl
+mean_diff,Mean difference (cis - trans),pQTL,global,0.0355278437962768,0.5331466853314668,,,5331.0,,,10000.0,,
+mean_diff,Mean difference (cis - trans),pQTL,piQTL_target_subset,0.1425235503888889,0.9361063893610639,,,9361.0,,,10000.0,,
+mean_diff,Mean difference (cis - trans),eQTL,global,0.1719713790175949,0.5177482251774822,,,5177.0,,,10000.0,,
+mean_diff,Mean difference (cis - trans),eQTL,piQTL_target_subset,0.1619370131400093,0.44855514448555145,,,4485.0,,,10000.0,,
+mean_diff,Mean difference (cis - trans),piQTL,global,-0.1592847526428571,,0.00019998000199980003,9.999000099990002e-05,,1.0,0.0,,10000.0,10000.0
+mean_diff,Mean difference (cis - trans),piQTL,piQTL_target_subset,-0.1592847526428571,,0.00019998000199980003,9.999000099990002e-05,,1.0,0.0,,10000.0,10000.0
+median_diff,Median difference (cis - trans),pQTL,global,0.073064619,0.49725027497250274,,,4972.0,,,10000.0,,
+median_diff,Median difference (cis - trans),pQTL,piQTL_target_subset,0.064840232,0.44155584441555845,,,4415.0,,,10000.0,,
+median_diff,Median difference (cis - trans),eQTL,global,0.1264396193338224,0.5032496750324967,,,5032.0,,,10000.0,,
+median_diff,Median difference (cis - trans),eQTL,piQTL_target_subset,0.1082216077584455,0.38346165383461656,,,3834.0,,,10000.0,,
+median_diff,Median difference (cis - trans),piQTL,global,-0.125593916,,9.999000099990002e-05,9.999000099990002e-05,,0.0,0.0,,10000.0,10000.0
+median_diff,Median difference (cis - trans),piQTL,piQTL_target_subset,-0.125593916,,9.999000099990002e-05,9.999000099990002e-05,,0.0,0.0,,10000.0,10000.0
+cis_trans_ratio,cis/trans ratio,pQTL,global,0.0203245627855679,0.5267473252674733,,,5267.0,,,10000.0,,
+cis_trans_ratio,cis/trans ratio,pQTL,piQTL_target_subset,0.0555555555555555,0.9974002599740026,,,9974.0,,,10000.0,,
+cis_trans_ratio,cis/trans ratio,eQTL,global,0.0885502102657401,0.5002499750024998,,,5002.0,,,10000.0,,
+cis_trans_ratio,cis/trans ratio,eQTL,piQTL_target_subset,0.0762195121951219,0.20027997200279973,,,2002.0,,,10000.0,,
+cis_trans_ratio,cis/trans ratio,piQTL,global,0.0034013605442176,,0.0086991300869913,9.999000099990002e-05,,86.0,0.0,,10000.0,10000.0
+cis_trans_ratio,cis/trans ratio,piQTL,piQTL_target_subset,0.0034013605442176,,0.0086991300869913,9.999000099990002e-05,,86.0,0.0,,10000.0,10000.0
+trans_pct,trans-QTL percentage (%),pQTL,global,98.00802964793084,0.47335266473352666,,,4733.0,,,10000.0,,
+trans_pct,trans-QTL percentage (%),pQTL,piQTL_target_subset,94.73684210526316,0.0028997100289971,,,28.0,,,10000.0,,
+trans_pct,trans-QTL percentage (%),eQTL,global,91.8653076880925,0.4998500149985001,,,4998.0,,,10000.0,,
+trans_pct,trans-QTL percentage (%),eQTL,piQTL_target_subset,92.91784702549576,0.7998200179982001,,,7998.0,,,10000.0,,
+trans_pct,trans-QTL percentage (%),piQTL,global,99.66101694915254,,0.9916008399160084,1.0,,9916.0,10000.0,,10000.0,10000.0
+trans_pct,trans-QTL percentage (%),piQTL,piQTL_target_subset,99.66101694915254,,0.9916008399160084,1.0,,9916.0,10000.0,,10000.0,10000.0

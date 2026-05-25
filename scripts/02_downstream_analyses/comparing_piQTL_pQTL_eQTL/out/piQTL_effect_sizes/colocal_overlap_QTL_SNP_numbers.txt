@@ -1,0 +1,7 @@
+Classification Summary:
+  Total piQTLs: 1180 (SNPs: 354)
+  Full matched piQTLs: 338 (SNPs: 142)
+  Partial matched piQTLs: 552 (SNPs: 146)
+    Partial eQTL only: 375 (SNPs: 85)
+    Partial pQTL only: 177 (SNPs: 61)
+  Unmatched to piQTLs: 290 (SNPs: 66)

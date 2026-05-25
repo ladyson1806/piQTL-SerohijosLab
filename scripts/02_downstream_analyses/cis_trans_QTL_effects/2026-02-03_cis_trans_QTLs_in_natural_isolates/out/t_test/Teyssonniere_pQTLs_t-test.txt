@@ -1,0 +1,3 @@
+t-Test for the cis and trans Teyssonniere pQTLs
+t-statistic: 3.023381271806831
+p-value: 0.005070394890843526
