@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+10479	HNM1_ERG11_MTX_Metformin_avg_logratio_Fitness_minus_ref_delta_noMTX_Metformin_avg_logratio_Fitness_minus_ref	-0.221393550727121	-0.619965675610521	0.535679241565214	0.695938517397822
+10481	HNM1_ERG11_MTX_Metformin_avg_logratio_Fitness_minus_ref_delta_noMTX_Metformin_avg_logratio_Fitness_minus_ref	0.0625994137711261	0.391127199363097	0.695938517397822	0.695938517397822

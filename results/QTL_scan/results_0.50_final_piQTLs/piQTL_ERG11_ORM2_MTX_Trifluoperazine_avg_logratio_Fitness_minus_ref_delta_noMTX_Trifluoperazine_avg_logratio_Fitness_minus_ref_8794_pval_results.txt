@@ -1,0 +1,2 @@
+SNP	gene	beta	t-stat	p-value	FDR
+8795	ERG11_ORM2_MTX_Trifluoperazine_avg_logratio_Fitness_minus_ref_delta_noMTX_Trifluoperazine_avg_logratio_Fitness_minus_ref	-0.404053207280202	-0.423376370392523	0.67227778511831	0.67227778511831

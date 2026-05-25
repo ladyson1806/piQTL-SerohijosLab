@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+923	MID2_WSC2_MTX_Fluconazole_avg_logratio_Fitness_minus_ref_delta_noMTX_Fluconazole_avg_logratio_Fitness_minus_ref	-0.207959391986904	-0.275658640681343	0.782971104455685	0.857231275310983
+925	MID2_WSC2_MTX_Fluconazole_avg_logratio_Fitness_minus_ref_delta_noMTX_Fluconazole_avg_logratio_Fitness_minus_ref	0.0652654245805949	0.180030957247541	0.857231275310983	0.857231275310983

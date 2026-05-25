@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+4916	ERV25_ORM2_MTX_Fluconazole_avg_logratio_Fitness_minus_ref_delta_noMTX_Fluconazole_avg_logratio_Fitness_minus_ref	-0.348894563357485	-0.601294103313753	0.548028954631814	0.75515985685166
+4915	ERV25_ORM2_MTX_Fluconazole_avg_logratio_Fitness_minus_ref_delta_noMTX_Fluconazole_avg_logratio_Fitness_minus_ref	-0.170723872495724	-0.312084745383078	0.75515985685166	0.75515985685166

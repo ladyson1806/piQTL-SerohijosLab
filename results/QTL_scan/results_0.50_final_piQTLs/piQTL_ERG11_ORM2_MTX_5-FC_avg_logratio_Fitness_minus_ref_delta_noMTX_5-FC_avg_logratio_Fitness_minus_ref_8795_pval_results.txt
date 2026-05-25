@@ -1,0 +1,2 @@
+SNP	gene	beta	t-stat	p-value	FDR
+8794	ERG11_ORM2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.123319642773712	-0.129182993393485	0.897286218011125	0.897286218011125

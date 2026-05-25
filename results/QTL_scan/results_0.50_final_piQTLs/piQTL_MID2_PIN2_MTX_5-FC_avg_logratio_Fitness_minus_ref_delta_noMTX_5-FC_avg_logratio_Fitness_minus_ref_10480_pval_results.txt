@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+10481	MID2_PIN2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0.0493016664478447	0.222912009289429	0.823732554161348	0.961334520119206
+10479	MID2_PIN2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0.0239499668926684	0.0485133043977122	0.961334520119206	0.961334520119206

@@ -1,0 +1,5 @@
+SNP	gene	beta	t-stat	p-value	FDR
+10216	ADE17_GIS2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.324845878867509	-0.966294188587929	0.334556661052518	0.55819914142669
+10217	ADE17_GIS2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.327133791091828	-0.953700021399288	0.340886262644912	0.55819914142669
+10215	ADE17_GIS2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.271715120645776	-0.772686375633714	0.440223595375871	0.55819914142669
+10213	ADE17_GIS2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.124735904929602	-0.586074189089484	0.55819914142669	0.55819914142669

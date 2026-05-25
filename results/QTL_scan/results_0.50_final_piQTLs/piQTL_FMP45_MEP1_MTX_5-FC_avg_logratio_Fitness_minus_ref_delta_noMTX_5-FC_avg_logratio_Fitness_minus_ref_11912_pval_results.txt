@@ -1,0 +1,5 @@
+SNP	gene	beta	t-stat	p-value	FDR
+11914	FMP45_MEP1_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.122466978865995	-0.369056203153677	0.712306469486271	0.802838140676985
+11915	FMP45_MEP1_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.115555716298319	-0.34625422995529	0.729357367600093	0.802838140676985
+11913	FMP45_MEP1_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.102844868310006	-0.310804704595517	0.756132016797874	0.802838140676985
+11916	FMP45_MEP1_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0.0780216663464275	0.249863113838898	0.802838140676985	0.802838140676985

@@ -1,0 +1,2 @@
+SNP	gene	beta	t-stat	p-value	FDR
+370	SSH1_ERV25_MTX_noDrug_avg_logratio_Fitness_minus_ref_delta_noMTX_noDrug_avg_logratio_Fitness_minus_ref	-0.422909526501429	-0.924747823483001	0.355727031809392	0.355727031809392

@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+7483	ERV25_RBD2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.225237422713782	-0.659898347732559	0.509748169296717	0.722834455634138
+7482	ERV25_RBD2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0.140323521266193	0.354955299954712	0.722834455634138	0.722834455634138

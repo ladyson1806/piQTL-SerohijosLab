@@ -1,0 +1,6 @@
+SNP	gene	beta	t-stat	p-value	FDR
+6990	ALO1_UIP4_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.651506239356745	-1.7284388528425	0.0847815347643048	0.423907673821524
+6992	ALO1_UIP4_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.308602055679135	-0.884256499968457	0.377157930257724	0.71209388246073
+6991	ALO1_UIP4_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.286805569393042	-0.794810420000372	0.427256329476438	0.71209388246073
+6989	ALO1_UIP4_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0.0831208907123118	0.122542320743482	0.902539069028799	1
+6988	ALO1_UIP4_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0	0	1	1

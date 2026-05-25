@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+10479	SNA4_GTR2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	-0.120744211790248	-0.252731753473008	0.800622196755336	0.910622139870849
+10481	SNA4_GTR2_MTX_5-FC_avg_logratio_Fitness_minus_ref_delta_noMTX_5-FC_avg_logratio_Fitness_minus_ref	0.0240471071157321	0.112334145136359	0.910622139870849	0.910622139870849

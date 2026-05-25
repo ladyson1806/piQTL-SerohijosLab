@@ -1,0 +1,2 @@
+SNP	gene	beta	t-stat	p-value	FDR
+369	SRO9_DHH1_MTX_Trifluoperazine_avg_logratio_Fitness_minus_ref_delta_noMTX_Trifluoperazine_avg_logratio_Fitness_minus_ref	0.0879356633368408	0.195305999495064	0.84526544987196	0.84526544987196

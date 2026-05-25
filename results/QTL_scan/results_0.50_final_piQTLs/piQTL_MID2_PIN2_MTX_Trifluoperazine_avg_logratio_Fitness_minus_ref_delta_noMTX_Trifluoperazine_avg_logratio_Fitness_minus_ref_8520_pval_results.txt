@@ -1,0 +1,2 @@
+SNP	gene	beta	t-stat	p-value	FDR
+8521	MID2_PIN2_MTX_Trifluoperazine_avg_logratio_Fitness_minus_ref_delta_noMTX_Trifluoperazine_avg_logratio_Fitness_minus_ref	-0.230565941861573	-0.792215965508191	0.428765315801465	0.428765315801465

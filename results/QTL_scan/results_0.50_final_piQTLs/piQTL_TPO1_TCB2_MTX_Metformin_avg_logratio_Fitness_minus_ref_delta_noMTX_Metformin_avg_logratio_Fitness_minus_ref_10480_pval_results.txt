@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+10481	TPO1_TCB2_MTX_Metformin_avg_logratio_Fitness_minus_ref_delta_noMTX_Metformin_avg_logratio_Fitness_minus_ref	0.0772469753404243	0.364317312316748	0.715838588676026	0.815298437378103
+10479	TPO1_TCB2_MTX_Metformin_avg_logratio_Fitness_minus_ref_delta_noMTX_Metformin_avg_logratio_Fitness_minus_ref	-0.110643468290113	-0.233770298761695	0.815298437378103	0.815298437378103

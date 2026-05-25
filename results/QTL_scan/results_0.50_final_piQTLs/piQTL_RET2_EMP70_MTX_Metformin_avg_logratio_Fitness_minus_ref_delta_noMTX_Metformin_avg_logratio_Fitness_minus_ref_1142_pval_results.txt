@@ -1,0 +1,3 @@
+SNP	gene	beta	t-stat	p-value	FDR
+1141	RET2_EMP70_MTX_Metformin_avg_logratio_Fitness_minus_ref_delta_noMTX_Metformin_avg_logratio_Fitness_minus_ref	0.171861475883132	0.804684182251214	0.42154203946054	0.789448498213352
+1140	RET2_EMP70_MTX_Metformin_avg_logratio_Fitness_minus_ref_delta_noMTX_Metformin_avg_logratio_Fitness_minus_ref	-0.0454815534770852	-0.267228953703317	0.789448498213352	0.789448498213352
