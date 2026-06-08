@@ -57,5 +57,4 @@ Main output locations:
 - `out/summary_colocal/`
 - `out/summary_annotated/`
 - `out/formatted_tables/`
-- `out/figures/`
 - `out/t_test/`
