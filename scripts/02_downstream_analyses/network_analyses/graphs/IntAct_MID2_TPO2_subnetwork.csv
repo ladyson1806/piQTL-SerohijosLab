@@ -1,0 +1,1222 @@
+,Uniprot_InteractorA,Uniprot_InteractorB,Confidence.value.s.,InteractorA,InteractorB
+15,uniprotkb:P04147,uniprotkb:P53297,intact-miscore:0.37,YER165W,YGR178C
+18,uniprotkb:P32486,uniprotkb:P04147,intact-miscore:0.37,YPR159W,YER165W
+340,uniprotkb:P25651,uniprotkb:P32582,intact-miscore:0.37,YCR086W,YGR155W
+604,uniprotkb:P47122,uniprotkb:P34167,intact-miscore:0.37,YJR072C,YPR163C
+719,uniprotkb:P25344,uniprotkb:Q12335,intact-miscore:0.37,YCL032W,YDR032C
+740,uniprotkb:P32486,uniprotkb:P43614,intact-miscore:0.37,YPR159W,YFR042W
+898,uniprotkb:P22224,uniprotkb:P29366,intact-miscore:0.37,YGL233W,YBR200W
+1032,uniprotkb:P14359,uniprotkb:Q12446,intact-miscore:0.37,YJL151C,YOR181W
+1217,uniprotkb:P45976,uniprotkb:P25344,intact-miscore:0.37,YJR093C,YCL032W
+1218,uniprotkb:P18494,uniprotkb:P25344,intact-miscore:0.37,YER040W,YCL032W
+1219,uniprotkb:Q06592,uniprotkb:P25344,intact-miscore:0.37,YPR193C,YCL032W
+1220,uniprotkb:Q99383,uniprotkb:P25344,intact-miscore:0.37,YOL123W,YCL032W
+1221,uniprotkb:P39520,uniprotkb:P25344,intact-miscore:0.37,YLR223C,YCL032W
+1222,uniprotkb:Q03503,uniprotkb:P25344,intact-miscore:0.37,YPR051W,YCL032W
+1223,uniprotkb:Q04149,uniprotkb:P25344,intact-miscore:0.37,YDR386W,YCL032W
+1224,uniprotkb:Q08214,uniprotkb:P25344,intact-miscore:0.37,YOL043C,YCL032W
+1225,uniprotkb:P32854,uniprotkb:P25344,intact-miscore:0.37,YOR036W,YCL032W
+1226,uniprotkb:P53437,uniprotkb:P25344,intact-miscore:0.37,YMR270C,YCL032W
+1227,uniprotkb:P39955,uniprotkb:P25344,intact-miscore:0.37,YER047C,YCL032W
+1228,uniprotkb:P22224,uniprotkb:P25344,intact-miscore:0.37,YGL233W,YCL032W
+1229,uniprotkb:P54999,uniprotkb:P25344,intact-miscore:0.37,YPR182W,YCL032W
+1230,uniprotkb:P39723,uniprotkb:P25344,intact-miscore:0.37,YAL047C,YCL032W
+1231,uniprotkb:P47822,uniprotkb:P25344,intact-miscore:0.37,YDR308C,YCL032W
+1232,uniprotkb:Q04048,uniprotkb:P25344,intact-miscore:0.37,YDR416W,YCL032W
+1233,uniprotkb:P32610,uniprotkb:P25344,intact-miscore:0.37,YEL051W,YCL032W
+1234,uniprotkb:P32563,uniprotkb:P25344,intact-miscore:0.37,YOR270C,YCL032W
+1235,uniprotkb:P25344,uniprotkb:Q02948,intact-miscore:0.37,YCL032W,YPL120W
+1236,uniprotkb:P25649,uniprotkb:P25344,intact-miscore:0.37,YCR082W,YCL032W
+1237,uniprotkb:Q12115,uniprotkb:P25344,intact-miscore:0.37,YDL016C,YCL032W
+1238,uniprotkb:Q07732,uniprotkb:P25344,intact-miscore:0.37,YDL239C,YCL032W
+1239,uniprotkb:P35727,uniprotkb:P25344,intact-miscore:0.37,YKL061W,YCL032W
+1240,uniprotkb:P36116,uniprotkb:P25344,intact-miscore:0.37,YKR020W,YCL032W
+1241,uniprotkb:Q07887,uniprotkb:P25344,intact-miscore:0.37,YLL049W,YCL032W
+1242,uniprotkb:P48232,uniprotkb:P25344,intact-miscore:0.37,YNL086W,YCL032W
+1328,uniprotkb:Q12466,uniprotkb:P43603,author score:34149.136744800002|intact-miscore:0.44,YOR086C,YFR024C-A
+1384,uniprotkb:P53867,uniprotkb:P09733,intact-miscore:0.37,YNL223W,YML085C
+1385,uniprotkb:P02557,uniprotkb:P53867,intact-miscore:0.37,YFL037W,YNL223W
+1425,uniprotkb:Q07732,uniprotkb:P53267,intact-miscore:0.37,YDL239C,YGR113W
+1430,uniprotkb:P53267,uniprotkb:P47822,intact-miscore:0.37,YGR113W,YDR308C
+1431,uniprotkb:P53267,uniprotkb:P25344,intact-miscore:0.37,YGR113W,YCL032W
+1438,uniprotkb:P53267,uniprotkb:P40094,intact-miscore:0.37,YGR113W,YER157W
+1442,uniprotkb:P53267,uniprotkb:P53267,intact-miscore:0.51,YGR113W,YGR113W
+1475,uniprotkb:Q04048,uniprotkb:Q04048,intact-miscore:0.37,YDR416W,YDR416W
+1653,uniprotkb:P14359,uniprotkb:P43603,intact-miscore:0.37,YJL151C,YFR024C-A
+1712,uniprotkb:P00359,uniprotkb:Q04439,intact-miscore:0.37,YGR192C,YMR109W
+1715,uniprotkb:Q04439,uniprotkb:P40073,intact-miscore:0.37,YMR109W,YER118C
+1719,uniprotkb:P18494,uniprotkb:P40073,intact-miscore:0.37,YER040W,YER118C
+1721,uniprotkb:P53297,uniprotkb:P40073,intact-miscore:0.37,YGR178C,YER118C
+1746,uniprotkb:P39940,uniprotkb:Q12446,intact-miscore:0.37,YER125W,YOR181W
+1752,uniprotkb:Q12446,uniprotkb:P47068,author score:Below 1|intact-miscore:0.68,YOR181W,YJL020C
+1761,uniprotkb:P34230,uniprotkb:P34230,intact-miscore:0.40,YKL188C,YKL188C
+1885,uniprotkb:P33203,uniprotkb:P33203,intact-miscore:0.40,YKL012W,YKL012W
+1920,uniprotkb:P00958,uniprotkb:P00958,intact-miscore:0.40,YGR264C,YGR264C
+1946,uniprotkb:P32486,uniprotkb:Q12446,intact-miscore:0.40,YPR159W,YOR181W
+2017,uniprotkb:P23900,uniprotkb:P25619,intact-miscore:0.37,YLL043W,YCR021C
+2581,uniprotkb:P38264,uniprotkb:P02829,intact-miscore:0.56,YBR106W,YPL240C
+2600,uniprotkb:P39007,uniprotkb:P02829,intact-miscore:0.40,YGL022W,YPL240C
+2601,uniprotkb:P19807,uniprotkb:P02829,intact-miscore:0.40,YGL077C,YPL240C
+2602,uniprotkb:P46672,uniprotkb:P02829,intact-miscore:0.56,YGL105W,YPL240C
+2606,uniprotkb:P00359,uniprotkb:P02829,intact-miscore:0.56,YGR192C,YPL240C
+2616,uniprotkb:Q02201,uniprotkb:P02829,intact-miscore:0.40,YKR003W,YPL240C
+2618,uniprotkb:P10592,uniprotkb:P02829,intact-miscore:0.67,YLL024C,YPL240C
+2634,uniprotkb:Q08409,uniprotkb:P02829,intact-miscore:0.40,YOR011W,YPL240C
+2681,uniprotkb:Q07732,uniprotkb:P02829,intact-miscore:0.55,YDL239C,YPL240C
+2696,uniprotkb:P22224,uniprotkb:P02829,intact-miscore:0.37,YGL233W,YPL240C
+2705,uniprotkb:P02829,uniprotkb:P38866,intact-miscore:0.55,YPL240C,YHR176W
+2724,uniprotkb:Q06410,uniprotkb:P02829,intact-miscore:0.37,YLR423C,YPL240C
+2924,uniprotkb:P10592,uniprotkb:Q02201,intact-miscore:0.40,YLL024C,YKR003W
+2950,uniprotkb:P10592,uniprotkb:Q06523,intact-miscore:0.40,YLL024C,YPR148C
+2966,uniprotkb:P10592,uniprotkb:P20438,intact-miscore:0.56,YLL024C,YPL256C
+2991,uniprotkb:P02994,uniprotkb:P53867,intact-miscore:0.40,YBR118W,YNL223W
+3009,uniprotkb:P09733,uniprotkb:Q12486,intact-miscore:0.40,YML085C,YOR131C
+3052,uniprotkb:P0CS90,uniprotkb:P32335,intact-miscore:0.56,YJR045C,YLR203C
+3084,uniprotkb:P10592,uniprotkb:P07143,intact-miscore:0.40,YLL024C,YOR065W
+3198,uniprotkb:Q00955,uniprotkb:P39676,intact-miscore:0.27,YNR016C,YGR234W
+3200,uniprotkb:Q00955,uniprotkb:P02829,intact-miscore:0.27,YNR016C,YPL240C
+3204,uniprotkb:Q00955,uniprotkb:P07283,intact-miscore:0.27,YNR016C,YFL045C
+3213,uniprotkb:Q00955,uniprotkb:Q07527,intact-miscore:0.27,YNR016C,YDL112W
+3400,uniprotkb:P00830,uniprotkb:P09733,intact-miscore:0.27,YJR121W,YML085C
+3426,uniprotkb:P18239,uniprotkb:P11972,intact-miscore:0.27,YBL030C,YLR452C
+3688,uniprotkb:P38737,uniprotkb:P25045,intact-miscore:0.27,YHL030W,YMR296C
+3698,uniprotkb:P38737,uniprotkb:P33302,intact-miscore:0.27,YHL030W,YOR153W
+3699,uniprotkb:P38737,uniprotkb:P26570,intact-miscore:0.27,YHL030W,YML016C
+3701,uniprotkb:P38737,uniprotkb:P09733,intact-miscore:0.27,YHL030W,YML085C
+3705,uniprotkb:P38737,uniprotkb:P53278,intact-miscore:0.27,YHL030W,YGR130C
+3714,uniprotkb:Q12449,uniprotkb:P11972,intact-miscore:0.27,YDR214W,YLR452C
+3893,uniprotkb:Q00955,uniprotkb:Q12449,intact-miscore:0.27,YNR016C,YDR214W
+3895,uniprotkb:Q00955,uniprotkb:P38737,intact-miscore:0.27,YNR016C,YHL030W
+3903,uniprotkb:Q00955,uniprotkb:P08518,intact-miscore:0.27,YNR016C,YOR151C
+3908,uniprotkb:Q00955,uniprotkb:P09733,intact-miscore:0.27,YNR016C,YML085C
+4184,uniprotkb:Q00955,uniprotkb:P04821,intact-miscore:0.27,YNR016C,YLR310C
+4186,uniprotkb:Q00955,uniprotkb:P16521,intact-miscore:0.27,YNR016C,YLR249W
+4197,uniprotkb:P32582,uniprotkb:Q03103,intact-miscore:0.27,YGR155W,YML130C
+4198,uniprotkb:P32582,uniprotkb:Q04410,intact-miscore:0.27,YGR155W,YDR517W
+4199,uniprotkb:P32582,uniprotkb:Q99257,intact-miscore:0.27,YGR155W,YPL169C
+4200,uniprotkb:P32582,uniprotkb:P35729,intact-miscore:0.27,YGR155W,YKL057C
+4201,uniprotkb:P32582,uniprotkb:P49687,intact-miscore:0.27,YGR155W,YGL092W
+4202,uniprotkb:P32582,uniprotkb:P52891,intact-miscore:0.27,YGR155W,YDL116W
+4203,uniprotkb:P32582,uniprotkb:P46673,intact-miscore:0.27,YGR155W,YJR042W
+4204,uniprotkb:P32582,uniprotkb:Q04491,intact-miscore:0.27,YGR155W,YLR208W
+4205,uniprotkb:P32582,uniprotkb:P48415,intact-miscore:0.27,YGR155W,YPL085W
+4206,uniprotkb:P32582,uniprotkb:P15303,intact-miscore:0.27,YGR155W,YPR181C
+4207,uniprotkb:P32582,uniprotkb:P40482,intact-miscore:0.44,YGR155W,YIL109C
+4208,uniprotkb:P32582,uniprotkb:P38968,intact-miscore:0.27,YGR155W,YDL195W
+4209,uniprotkb:P32582,uniprotkb:P53011,intact-miscore:0.27,YGR155W,YGL100W
+4210,uniprotkb:P32582,uniprotkb:P53953,intact-miscore:0.27,YGR155W,YNL049C
+4211,uniprotkb:P32582,uniprotkb:P39007,intact-miscore:0.27,YGR155W,YGL022W
+4232,uniprotkb:P32898,uniprotkb:Q12329,intact-miscore:0.44,YDR430C,YDR171W
+4251,uniprotkb:P40344,uniprotkb:P09733,intact-miscore:0.27,YNR007C,YML085C
+4326,uniprotkb:P14540,uniprotkb:Q03640,intact-miscore:0.27,YKL060C,YML072C
+4327,uniprotkb:P14540,uniprotkb:P32563,intact-miscore:0.27,YKL060C,YOR270C
+4328,uniprotkb:P14540,uniprotkb:P53049,intact-miscore:0.27,YKL060C,YGR281W
+4329,uniprotkb:P00925,uniprotkb:P32288,intact-miscore:0.27,YHR174W,YPR035W
+4330,uniprotkb:P00925,uniprotkb:Q12329,intact-miscore:0.27,YHR174W,YDR171W
+4331,uniprotkb:P00925,uniprotkb:P09435,intact-miscore:0.51,YHR174W,YBL075C
+4332,uniprotkb:P00925,uniprotkb:P38828,intact-miscore:0.44,YHR174W,YHR121W
+4333,uniprotkb:P00925,uniprotkb:P53297,intact-miscore:0.27,YHR174W,YGR178C
+4334,uniprotkb:P00925,uniprotkb:P05317,intact-miscore:0.27,YHR174W,YLR340W
+4335,uniprotkb:P00925,uniprotkb:P06786,intact-miscore:0.27,YHR174W,YNL088W
+4441,uniprotkb:P00830,uniprotkb:Q12329,intact-miscore:0.27,YJR121W,YDR171W
+4444,uniprotkb:P00830,uniprotkb:P09734,intact-miscore:0.44,YJR121W,YML124C
+4445,uniprotkb:P00830,uniprotkb:P02557,intact-miscore:0.27,YJR121W,YFL037W
+4457,uniprotkb:Q00955,uniprotkb:P20438,intact-miscore:0.27,YNR016C,YPL256C
+4458,uniprotkb:Q00955,uniprotkb:P32324,intact-miscore:0.27,YNR016C,YOR133W
+4461,uniprotkb:Q00955,uniprotkb:P32589,intact-miscore:0.51,YNR016C,YPL106C
+4465,uniprotkb:Q00955,uniprotkb:P07806,intact-miscore:0.27,YNR016C,YGR094W
+4604,uniprotkb:P00830,uniprotkb:P06786,intact-miscore:0.27,YJR121W,YNL088W
+4605,uniprotkb:P00830,uniprotkb:Q12159,intact-miscore:0.27,YJR121W,YDR381W
+4648,uniprotkb:Q00955,uniprotkb:P09734,intact-miscore:0.27,YNR016C,YML124C
+4670,uniprotkb:P18239,uniprotkb:Q12449,intact-miscore:0.27,YBL030C,YDR214W
+4671,uniprotkb:P18239,uniprotkb:P54115,intact-miscore:0.27,YBL030C,YPL061W
+4674,uniprotkb:P18239,uniprotkb:P02829,intact-miscore:0.27,YBL030C,YPL240C
+4677,uniprotkb:P18239,uniprotkb:P39692,intact-miscore:0.27,YBL030C,YFR030W
+4679,uniprotkb:P18239,uniprotkb:P07283,intact-miscore:0.27,YBL030C,YFL045C
+4681,uniprotkb:P18239,uniprotkb:P09733,intact-miscore:0.27,YBL030C,YML085C
+4767,uniprotkb:P32288,uniprotkb:P08518,intact-miscore:0.27,YPR035W,YOR151C
+4769,uniprotkb:P54784,uniprotkb:P04147,intact-miscore:0.44,YML065W,YER165W
+4826,uniprotkb:P07251,uniprotkb:P32563,intact-miscore:0.27,YBL099W,YOR270C
+4827,uniprotkb:P07251,uniprotkb:P53049,intact-miscore:0.44,YBL099W,YGR281W
+4877,uniprotkb:P11353,uniprotkb:P07806,intact-miscore:0.27,YDR044W,YGR094W
+4914,uniprotkb:Q03771,uniprotkb:P14540,intact-miscore:0.44,YDR161W,YKL060C
+4915,uniprotkb:Q03771,uniprotkb:P00925,intact-miscore:0.44,YDR161W,YHR174W
+5047,uniprotkb:Q12449,uniprotkb:P39692,intact-miscore:0.27,YDR214W,YFR030W
+5051,uniprotkb:Q12449,uniprotkb:P09734,intact-miscore:0.27,YDR214W,YML124C
+5176,uniprotkb:P38903,uniprotkb:P32563,intact-miscore:0.27,YOR014W,YOR270C
+5177,uniprotkb:P38903,uniprotkb:P53049,intact-miscore:0.27,YOR014W,YGR281W
+5182,uniprotkb:P02994,uniprotkb:P32324,intact-miscore:0.44,YBR118W,YOR133W
+5334,uniprotkb:P46682,uniprotkb:P00925,intact-miscore:0.59,YGR261C,YHR174W
+5448,uniprotkb:P19414,uniprotkb:P54861,intact-miscore:0.27,YLR304C,YLL001W
+5504,uniprotkb:P14540,uniprotkb:P00925,intact-miscore:0.27,YKL060C,YHR174W
+5594,uniprotkb:P46672,uniprotkb:P11353,intact-miscore:0.27,YGL105W,YDR044W
+5595,uniprotkb:P46672,uniprotkb:P07806,intact-miscore:0.27,YGL105W,YGR094W
+5637,uniprotkb:P19414,uniprotkb:Q12449,intact-miscore:0.27,YLR304C,YDR214W
+5639,uniprotkb:P19414,uniprotkb:P39676,intact-miscore:0.44,YLR304C,YGR234W
+5673,uniprotkb:P00359,uniprotkb:P09733,intact-miscore:0.27,YGR192C,YML085C
+5686,uniprotkb:P07283,uniprotkb:P09733,intact-miscore:0.44,YFL045C,YML085C
+5716,uniprotkb:P54861,uniprotkb:P07283,intact-miscore:0.27,YLL001W,YFL045C
+5718,uniprotkb:P54861,uniprotkb:P11972,intact-miscore:0.27,YLL001W,YLR452C
+5719,uniprotkb:P54861,uniprotkb:P09733,intact-miscore:0.44,YLL001W,YML085C
+5756,uniprotkb:Q12449,uniprotkb:P10081,intact-miscore:0.44,YDR214W,YJL138C
+5758,uniprotkb:Q12449,uniprotkb:P09733,intact-miscore:0.44,YDR214W,YML085C
+5759,uniprotkb:Q12449,uniprotkb:P02557,intact-miscore:0.44,YDR214W,YFL037W
+5778,uniprotkb:P16474,uniprotkb:P32582,intact-miscore:0.44,YJL034W,YGR155W
+5779,uniprotkb:P16474,uniprotkb:Q04410,intact-miscore:0.27,YJL034W,YDR517W
+5780,uniprotkb:P16474,uniprotkb:P32445,intact-miscore:0.27,YJL034W,YCR028C-A
+5783,uniprotkb:P16474,uniprotkb:Q04491,intact-miscore:0.27,YJL034W,YLR208W
+5784,uniprotkb:P16474,uniprotkb:P48415,intact-miscore:0.44,YJL034W,YPL085W
+5785,uniprotkb:P16474,uniprotkb:P15303,intact-miscore:0.44,YJL034W,YPR181C
+5786,uniprotkb:P16474,uniprotkb:P40482,intact-miscore:0.27,YJL034W,YIL109C
+5787,uniprotkb:P16474,uniprotkb:P38968,intact-miscore:0.44,YJL034W,YDL195W
+5788,uniprotkb:P16474,uniprotkb:P53953,intact-miscore:0.27,YJL034W,YNL049C
+5809,uniprotkb:P32582,uniprotkb:P00546,intact-miscore:0.44,YGR155W,YBR160W
+5810,uniprotkb:P32582,uniprotkb:P20437,intact-miscore:0.27,YGR155W,YMR199W
+5811,uniprotkb:P32582,uniprotkb:P24870,intact-miscore:0.27,YGR155W,YDL155W
+5812,uniprotkb:P32582,uniprotkb:P20486,intact-miscore:0.27,YGR155W,YBR135W
+5813,uniprotkb:P32582,uniprotkb:P10081,intact-miscore:0.27,YGR155W,YJL138C
+5814,uniprotkb:P32582,uniprotkb:P38634,intact-miscore:0.27,YGR155W,YLR079W
+5817,uniprotkb:P38903,uniprotkb:P32589,intact-miscore:0.44,YOR014W,YPL106C
+5846,uniprotkb:P19414,uniprotkb:P25045,intact-miscore:0.27,YLR304C,YMR296C
+5849,uniprotkb:P19414,uniprotkb:P09733,intact-miscore:0.27,YLR304C,YML085C
+5886,uniprotkb:Q12449,uniprotkb:P54861,intact-miscore:0.27,YDR214W,YLL001W
+5889,uniprotkb:Q12449,uniprotkb:P39676,intact-miscore:0.27,YDR214W,YGR234W
+5897,uniprotkb:Q12449,uniprotkb:P07283,intact-miscore:0.27,YDR214W,YFL045C
+6033,uniprotkb:P32335,uniprotkb:P32898,intact-miscore:0.27,YLR203C,YDR430C
+6278,uniprotkb:P18239,uniprotkb:Q03921,intact-miscore:0.27,YBL030C,YDR141C
+6283,uniprotkb:P18239,uniprotkb:P40513,intact-miscore:0.27,YBL030C,YIL070C
+6291,uniprotkb:P18239,uniprotkb:P33302,intact-miscore:0.27,YBL030C,YOR153W
+6295,uniprotkb:P18239,uniprotkb:P02557,intact-miscore:0.27,YBL030C,YFL037W
+6484,uniprotkb:P32582,uniprotkb:P25293,intact-miscore:0.27,YGR155W,YKR048C
+6485,uniprotkb:P32582,uniprotkb:Q08229,intact-miscore:0.27,YGR155W,YOL070C
+6486,uniprotkb:P32582,uniprotkb:P53939,intact-miscore:0.27,YGR155W,YNL078W
+6561,uniprotkb:P32582,uniprotkb:P20438,intact-miscore:0.27,YGR155W,YPL256C
+6562,uniprotkb:P32582,uniprotkb:P32898,intact-miscore:0.27,YGR155W,YDR430C
+6563,uniprotkb:P32582,uniprotkb:P34216,intact-miscore:0.27,YGR155W,YBL047C
+6564,uniprotkb:P32582,uniprotkb:P00924,intact-miscore:0.27,YGR155W,YGR254W
+6565,uniprotkb:P32582,uniprotkb:P0CS90,intact-miscore:0.44,YGR155W,YJR045C
+6566,uniprotkb:P32582,uniprotkb:P38250,intact-miscore:0.27,YGR155W,YBR086C
+6567,uniprotkb:P32582,uniprotkb:P39692,intact-miscore:0.27,YGR155W,YFR030W
+6568,uniprotkb:P32582,uniprotkb:P32335,intact-miscore:0.27,YGR155W,YLR203C
+6569,uniprotkb:P32582,uniprotkb:Q03558,intact-miscore:0.27,YGR155W,YHR179W
+6570,uniprotkb:P32582,uniprotkb:P25623,intact-miscore:0.27,YGR155W,YCR030C
+6571,uniprotkb:P32582,uniprotkb:Q07527,intact-miscore:0.27,YGR155W,YDL112W
+6806,uniprotkb:P54861,uniprotkb:P02994,intact-miscore:0.44,YLL001W,YBR118W
+6815,uniprotkb:P32288,uniprotkb:P10081,intact-miscore:0.27,YPR035W,YJL138C
+6822,uniprotkb:P32582,uniprotkb:P39676,intact-miscore:0.27,YGR155W,YGR234W
+6823,uniprotkb:P32582,uniprotkb:P32589,intact-miscore:0.59,YGR155W,YPL106C
+6929,uniprotkb:P43582,uniprotkb:Q05583,author score:1|author score:low|intact-miscore:0.37,YFL010C,YDR267C
+6951,uniprotkb:P00925,uniprotkb:Q05583,author score:1|author score:low|intact-miscore:0.37,YHR174W,YDR267C
+7286,uniprotkb:P32318,uniprotkb:P38829,author score:1|author score:low|intact-miscore:0.37,YGR144W,YHR122W
+7319,uniprotkb:Q03921,uniprotkb:P38829,author score:1|author score:low|intact-miscore:0.37,YDR141C,YHR122W
+7370,uniprotkb:P29366,uniprotkb:P38829,author score:1|author score:low|intact-miscore:0.37,YBR200W,YHR122W
+7388,uniprotkb:Q04659,uniprotkb:P38074,author score:4|intact-miscore:0.55,YMR048W,YBR034C
+7432,uniprotkb:P11353,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YDR044W,YBR034C
+7438,uniprotkb:P54791,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YPR162C,YBR034C
+7446,uniprotkb:P24870,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YDL155W,YBR034C
+7451,uniprotkb:P09734,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YML124C,YBR034C
+7458,uniprotkb:Q08234,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YOL075C,YBR034C
+7459,uniprotkb:P25651,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YCR086W,YBR034C
+7463,uniprotkb:P38074,uniprotkb:P42935,author score:1|author score:low|intact-miscore:0.37,YBR034C,YGR200C
+7476,uniprotkb:P41909,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YPL147W,YBR034C
+7480,uniprotkb:Q08409,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YOR011W,YBR034C
+7497,uniprotkb:P38250,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YBR086C,YBR034C
+7519,uniprotkb:P25619,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YCR021C,YBR034C
+7522,uniprotkb:P11972,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YLR452C,YBR034C
+7543,uniprotkb:P38264,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YBR106W,YBR034C
+7556,uniprotkb:P38741,uniprotkb:P38074,author score:1|author score:low|intact-miscore:0.37,YHL024W,YBR034C
+7712,uniprotkb:P32486,uniprotkb:P47088,author score:2|intact-miscore:0.37,YPR159W,YJR013W
+7713,uniprotkb:P40578,uniprotkb:P47088,author score:2|intact-miscore:0.37,YIR033W,YJR013W
+7722,uniprotkb:Q12675,uniprotkb:P47088,author score:1|author score:low|intact-miscore:0.37,YDR093W,YJR013W
+7734,uniprotkb:P21147,uniprotkb:P47088,author score:1|author score:low|intact-miscore:0.37,YGL055W,YJR013W
+7758,uniprotkb:P22289,uniprotkb:P47122,author score:4|intact-miscore:0.37,YGR183C,YJR072C
+7760,uniprotkb:P43582,uniprotkb:P47122,author score:4|intact-miscore:0.37,YFL010C,YJR072C
+7766,uniprotkb:P40513,uniprotkb:P47122,author score:2|intact-miscore:0.37,YIL070C,YJR072C
+7770,uniprotkb:P53279,uniprotkb:P47122,author score:2|intact-miscore:0.37,YGR131W,YJR072C
+7794,uniprotkb:P25649,uniprotkb:P47122,author score:1|author score:low|intact-miscore:0.37,YCR082W,YJR072C
+7845,uniprotkb:P20437,uniprotkb:P00546,author score:2|intact-miscore:0.87,YMR199W,YBR160W
+7862,uniprotkb:P25344,uniprotkb:Q06648,author score:2|intact-miscore:0.55,YCL032W,YDR309C
+7864,uniprotkb:P25651,uniprotkb:Q06648,author score:2|intact-miscore:0.55,YCR086W,YDR309C
+7876,uniprotkb:P25344,uniprotkb:P38785,author score:2|intact-miscore:0.55,YCL032W,YHR061C
+7880,uniprotkb:P25651,uniprotkb:P38785,author score:2|intact-miscore:0.55,YCR086W,YHR061C
+7882,uniprotkb:P38785,uniprotkb:P38785,author score:2|intact-miscore:0.37,YHR061C,YHR061C
+7884,uniprotkb:Q06648,uniprotkb:P38785,author score:2|intact-miscore:0.55,YDR309C,YHR061C
+8134,uniprotkb:P40344,uniprotkb:P38316,author score:3|intact-miscore:0.55,YNR007C,YBR217W
+8140,uniprotkb:Q04659,uniprotkb:P38316,author score:1|author score:low|intact-miscore:0.37,YMR048W,YBR217W
+8182,uniprotkb:P53279,uniprotkb:P38316,author score:1|author score:low|intact-miscore:0.37,YGR131W,YBR217W
+8307,uniprotkb:P53011,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YGL100W,YNL124W
+8320,uniprotkb:P16521,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YLR249W,YNL124W
+8321,uniprotkb:P27514,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YNR013C,YNL124W
+8329,uniprotkb:Q03921,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YDR141C,YNL124W
+8421,uniprotkb:P53139,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YGL108C,YNL124W
+8431,uniprotkb:P32318,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YGR144W,YNL124W
+8455,uniprotkb:P18239,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YBL030C,YNL124W
+8464,uniprotkb:P25344,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YCL032W,YNL124W
+8471,uniprotkb:Q03653,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YMR212C,YNL124W
+8477,uniprotkb:Q08234,uniprotkb:P53919,author score:1|author score:low|intact-miscore:0.37,YOL075C,YNL124W
+8598,uniprotkb:P40350,uniprotkb:Q02159,author score:3|intact-miscore:0.37,YPL227C,YMR022W
+8622,uniprotkb:Q03558,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YHR179W,YMR022W
+8667,uniprotkb:P38756,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YHR003C,YMR022W
+8683,uniprotkb:P22289,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YGR183C,YMR022W
+8718,uniprotkb:P07806,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YGR094W,YMR022W
+8764,uniprotkb:P53923,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YNL119W,YMR022W
+8765,uniprotkb:P25344,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YCL032W,YMR022W
+8812,uniprotkb:Q12230,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YPL004C,YMR022W
+8862,uniprotkb:P38695,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YHR096C,YMR022W
+8880,uniprotkb:Q06592,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YPR193C,YMR022W
+8907,uniprotkb:P25045,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YMR296C,YMR022W
+8933,uniprotkb:P39692,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YFR030W,YMR022W
+8941,uniprotkb:P40094,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YER157W,YMR022W
+8942,uniprotkb:P22696,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YJR017C,YMR022W
+8948,uniprotkb:Q06512,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YPR144C,YMR022W
+8954,uniprotkb:P23900,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YLL043W,YMR022W
+9002,uniprotkb:P23561,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YLR362W,YMR022W
+9046,uniprotkb:P24482,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YPR175W,YMR022W
+9074,uniprotkb:P21269,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YER168C,YMR022W
+9078,uniprotkb:P32568,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YDR011W,YMR022W
+9163,uniprotkb:P53388,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YPL265W,YMR022W
+9174,uniprotkb:P00958,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YGR264C,YMR022W
+9176,uniprotkb:P20486,uniprotkb:Q02159,author score:1|author score:low|intact-miscore:0.37,YBR135W,YMR022W
+9353,uniprotkb:P0CG63,uniprotkb:P10592,intact-miscore:0.44,YLL039C,YLL024C
+9373,uniprotkb:P0CG63,uniprotkb:P02994,intact-miscore:0.44,YLL039C,YBR118W
+9377,uniprotkb:P0CG63,uniprotkb:P10614,intact-miscore:0.44,YLL039C,YHR007C
+9381,uniprotkb:P0CG63,uniprotkb:P00359,intact-miscore:0.44,YLL039C,YGR192C
+9382,uniprotkb:P0CG63,uniprotkb:P16521,intact-miscore:0.44,YLL039C,YLR249W
+9392,uniprotkb:P0CG63,uniprotkb:P32324,intact-miscore:0.44,YLL039C,YOR133W
+9399,uniprotkb:P0CG63,uniprotkb:P32288,intact-miscore:0.44,YLL039C,YPR035W
+9400,uniprotkb:P0CG63,uniprotkb:P00924,intact-miscore:0.44,YLL039C,YGR254W
+9407,uniprotkb:P0CG63,uniprotkb:P00925,intact-miscore:0.44,YLL039C,YHR174W
+9419,uniprotkb:P0CG63,uniprotkb:P09435,intact-miscore:0.44,YLL039C,YBL075C
+9441,uniprotkb:P0CG63,uniprotkb:P02829,intact-miscore:0.44,YLL039C,YPL240C
+9444,uniprotkb:P0CG63,uniprotkb:P21147,intact-miscore:0.44,YLL039C,YGL055W
+9446,uniprotkb:P0CG63,uniprotkb:Q12329,intact-miscore:0.44,YLL039C,YDR171W
+9448,uniprotkb:P0CG63,uniprotkb:P08518,intact-miscore:0.44,YLL039C,YOR151C
+9464,uniprotkb:P0CG63,uniprotkb:P16474,intact-miscore:0.44,YLL039C,YJL034W
+9472,uniprotkb:P0CG63,uniprotkb:P32478,intact-miscore:0.44,YLL039C,YJL159W
+9483,uniprotkb:P32589,uniprotkb:P02829,author score:1|intact-miscore:0.72,YPL106C,YPL240C
+9487,uniprotkb:Q12329,uniprotkb:P02829,author score:2|intact-miscore:0.55,YDR171W,YPL240C
+9496,uniprotkb:P23561,uniprotkb:P02829,author score:1|intact-miscore:0.49,YLR362W,YPL240C
+9513,uniprotkb:P32854,uniprotkb:P02829,author score:2|intact-miscore:0.37,YOR036W,YPL240C
+9530,uniprotkb:P32465,uniprotkb:P02829,author score:2|intact-miscore:0.37,YHR094C,YPL240C
+9531,uniprotkb:P38695,uniprotkb:P02829,author score:2|intact-miscore:0.37,YHR096C,YPL240C
+9535,uniprotkb:P50276,uniprotkb:P02829,author score:2|intact-miscore:0.37,YGR055W,YPL240C
+9550,uniprotkb:P38270,uniprotkb:P02829,author score:2|intact-miscore:0.37,YBR128C,YPL240C
+9572,uniprotkb:P21147,uniprotkb:P02829,author score:3|intact-miscore:0.37,YGL055W,YPL240C
+9585,uniprotkb:P40073,uniprotkb:P02829,author score:3|intact-miscore:0.37,YER118C,YPL240C
+9647,uniprotkb:Q06523,uniprotkb:P02829,author score:1|intact-miscore:0.55,YPR148C,YPL240C
+9654,uniprotkb:P23561,uniprotkb:P23561,intact-miscore:0.67,YLR362W,YLR362W
+9689,uniprotkb:P46655,uniprotkb:P39940,intact-miscore:0.44,YGL245W,YER125W
+9726,uniprotkb:P39940,uniprotkb:P39940,intact-miscore:0.44,YER125W,YER125W
+9730,uniprotkb:P00925,uniprotkb:P39940,intact-miscore:0.44,YHR174W,YER125W
+9738,uniprotkb:P42935,uniprotkb:P39940,intact-miscore:0.44,YGR200C,YER125W
+9779,uniprotkb:P14359,uniprotkb:P39940,intact-miscore:0.59,YJL151C,YER125W
+9781,uniprotkb:Q03558,uniprotkb:P39940,intact-miscore:0.44,YHR179W,YER125W
+9783,uniprotkb:P38741,uniprotkb:P39940,intact-miscore:0.44,YHL024W,YER125W
+9810,uniprotkb:P00925,uniprotkb:P43582,intact-miscore:0.44,YHR174W,YFL010C
+9851,uniprotkb:P11353,uniprotkb:P43582,intact-miscore:0.44,YDR044W,YFL010C
+9864,uniprotkb:P40513,uniprotkb:P40318,intact-miscore:0.44,YIL070C,YIL030C
+9873,uniprotkb:P32288,uniprotkb:P40318,intact-miscore:0.44,YPR035W,YIL030C
+9876,uniprotkb:P40318,uniprotkb:P00925,intact-miscore:0.44,YIL030C,YHR174W
+9896,uniprotkb:P46655,uniprotkb:P40318,intact-miscore:0.44,YGL245W,YIL030C
+9917,uniprotkb:Q04491,uniprotkb:P40318,intact-miscore:0.44,YLR208W,YIL030C
+9919,uniprotkb:P10592,uniprotkb:P40318,intact-miscore:0.44,YLL024C,YIL030C
+9938,uniprotkb:P00925,uniprotkb:P46995,intact-miscore:0.44,YHR174W,YJL168C
+9963,uniprotkb:P11353,uniprotkb:P46995,intact-miscore:0.44,YDR044W,YJL168C
+9976,uniprotkb:P00925,uniprotkb:P22696,intact-miscore:0.44,YHR174W,YJR017C
+10016,uniprotkb:P10592,uniprotkb:P22696,intact-miscore:0.70,YLL024C,YJR017C
+10028,uniprotkb:P11353,uniprotkb:P22696,intact-miscore:0.44,YDR044W,YJR017C
+10039,uniprotkb:P00925,uniprotkb:P33203,intact-miscore:0.44,YHR174W,YKL012W
+10058,uniprotkb:P10592,uniprotkb:P33203,intact-miscore:0.59,YLL024C,YKL012W
+10069,uniprotkb:P11353,uniprotkb:P33203,intact-miscore:0.44,YDR044W,YKL012W
+10088,uniprotkb:P42935,uniprotkb:P33203,intact-miscore:0.44,YGR200C,YKL012W
+10100,uniprotkb:P46655,uniprotkb:P33203,intact-miscore:0.44,YGL245W,YKL012W
+10124,uniprotkb:Q03558,uniprotkb:P33203,intact-miscore:0.44,YHR179W,YKL012W
+10127,uniprotkb:P00958,uniprotkb:P33203,intact-miscore:0.44,YGR264C,YKL012W
+10135,uniprotkb:Q08409,uniprotkb:P00925,intact-miscore:0.44,YOR011W,YHR174W
+10157,uniprotkb:P00925,uniprotkb:Q06525,intact-miscore:0.44,YHR174W,YPR152C
+10184,uniprotkb:P10592,uniprotkb:Q06525,intact-miscore:0.59,YLL024C,YPR152C
+10371,uniprotkb:P10081,uniprotkb:P10081,intact-miscore:0.56,YJL138C,YJL138C
+10407,uniprotkb:P34167,uniprotkb:Q06512,intact-miscore:0.40,YPR163C,YPR144C
+10409,uniprotkb:Q06512,uniprotkb:Q12329,intact-miscore:0.56,YPR144C,YDR171W
+10508,uniprotkb:P32582,uniprotkb:P42222,intact-miscore:0.40,YGR155W,YMR323W
+10541,uniprotkb:Q12466,uniprotkb:P16521,intact-miscore:0.44,YOR086C,YLR249W
+10595,uniprotkb:P00830,uniprotkb:P02829,intact-miscore:0.56,YJR121W,YPL240C
+10647,uniprotkb:P10614,uniprotkb:P32582,intact-miscore:0.40,YHR007C,YGR155W
+10648,uniprotkb:P09733,uniprotkb:P32582,intact-miscore:0.40,YML085C,YGR155W
+10649,uniprotkb:P32582,uniprotkb:P02557,intact-miscore:0.40,YGR155W,YFL037W
+10650,uniprotkb:P32597,uniprotkb:P32582,intact-miscore:0.40,YIL126W,YGR155W
+10651,uniprotkb:P02994,uniprotkb:P32582,intact-miscore:0.40,YBR118W,YGR155W
+10652,uniprotkb:P08518,uniprotkb:P32582,intact-miscore:0.40,YOR151C,YGR155W
+10653,uniprotkb:P16140,uniprotkb:P32582,intact-miscore:0.40,YBR127C,YGR155W
+10654,uniprotkb:P54115,uniprotkb:P32582,intact-miscore:0.44,YPL061W,YGR155W
+10655,uniprotkb:Q03631,uniprotkb:P32582,intact-miscore:0.40,YML076C,YGR155W
+10678,uniprotkb:P32324,uniprotkb:Q02821,intact-miscore:0.56,YOR133W,YNL189W
+10724,uniprotkb:P12954,uniprotkb:Q12329,intact-miscore:0.56,YJL092W,YDR171W
+10762,uniprotkb:P09733,uniprotkb:P32478,intact-miscore:0.40,YML085C,YJL159W
+10763,uniprotkb:P02557,uniprotkb:P32478,intact-miscore:0.40,YFL037W,YJL159W
+10964,uniprotkb:Q12230,uniprotkb:P32445,intact-miscore:0.40,YPL004C,YCR028C-A
+10969,uniprotkb:P25344,uniprotkb:P38741,intact-miscore:0.40,YCL032W,YHL024W
+11576,uniprotkb:P0CG63,uniprotkb:P47068,intact-miscore:0.40,YLL039C,YJL020C
+11582,uniprotkb:P0CG63,uniprotkb:P38080,intact-miscore:0.40,YLL039C,YBR059C
+12094,uniprotkb:P46995,uniprotkb:Q12159,intact-miscore:0.40,YJL168C,YDR381W
+12100,uniprotkb:P53953,uniprotkb:Q12159,intact-miscore:0.56,YNL049C,YDR381W
+12191,uniprotkb:P00546,uniprotkb:P38634,intact-miscore:0.67,YBR160W,YLR079W
+12263,uniprotkb:P46655,uniprotkb:P34252,intact-miscore:0.40,YGL245W,YKL108W
+12264,uniprotkb:P34252,uniprotkb:P38828,intact-miscore:0.40,YKL108W,YHR121W
+12265,uniprotkb:P34252,uniprotkb:P32582,intact-miscore:0.40,YKL108W,YGR155W
+12266,uniprotkb:P40513,uniprotkb:P34252,intact-miscore:0.56,YIL070C,YKL108W
+12356,uniprotkb:P33203,uniprotkb:P54999,intact-miscore:0.56,YKL012W,YPR182W
+12431,uniprotkb:P40088,uniprotkb:P46965,intact-miscore:0.40,YER145C,YJR010C-A
+12432,uniprotkb:Q12466,uniprotkb:P46965,intact-miscore:0.40,YOR086C,YJR010C-A
+12433,uniprotkb:Q03640,uniprotkb:P46965,intact-miscore:0.40,YML072C,YJR010C-A
+12436,uniprotkb:P46965,uniprotkb:P02294,intact-miscore:0.40,YJR010C-A,YBL002W
+12444,uniprotkb:P32445,uniprotkb:P46965,intact-miscore:0.40,YCR028C-A,YJR010C-A
+12447,uniprotkb:P46965,uniprotkb:P40094,intact-miscore:0.40,YJR010C-A,YER157W
+12453,uniprotkb:P21147,uniprotkb:P46965,intact-miscore:0.44,YGL055W,YJR010C-A
+12632,uniprotkb:P09733,uniprotkb:P11972,intact-miscore:0.40,YML085C,YLR452C
+12637,uniprotkb:P23561,uniprotkb:P15790,intact-miscore:0.40,YLR362W,YIL035C
+12642,uniprotkb:P53111,uniprotkb:P25344,intact-miscore:0.40,YGL157W,YCL032W
+12643,uniprotkb:P38300,uniprotkb:P25344,intact-miscore:0.40,YBR185C,YCL032W
+12841,uniprotkb:P10081,uniprotkb:P16521,intact-miscore:0.40,YJL138C,YLR249W
+12853,uniprotkb:P0CG63,uniprotkb:P10081,intact-miscore:0.40,YLL039C,YJL138C
+12888,uniprotkb:P02294,uniprotkb:P06786,intact-miscore:0.40,YBL002W,YNL088W
+12890,uniprotkb:P06786,uniprotkb:Q12159,intact-miscore:0.56,YNL088W,YDR381W
+12891,uniprotkb:P06786,uniprotkb:P15790,intact-miscore:0.40,YNL088W,YIL035C
+12937,uniprotkb:P09733,uniprotkb:P09734,intact-miscore:0.56,YML085C,YML124C
+12977,uniprotkb:P0CG63,uniprotkb:P38237,intact-miscore:0.40,YLL039C,YBR058C
+12981,uniprotkb:P48415,uniprotkb:P38237,intact-miscore:0.40,YPL085W,YBR058C
+13163,uniprotkb:P32610,uniprotkb:P16140,intact-miscore:0.56,YEL051W,YBR127C
+13429,uniprotkb:P38828,uniprotkb:P02829,intact-miscore:0.69,YHR121W,YPL240C
+13493,uniprotkb:P23561,uniprotkb:P35727,intact-miscore:0.40,YLR362W,YKL061W
+13916,uniprotkb:P19414,uniprotkb:Q12329,intact-miscore:0.59,YLR304C,YDR171W
+13930,uniprotkb:P48415,uniprotkb:P40350,intact-miscore:0.40,YPL085W,YPL227C
+13931,uniprotkb:P40350,uniprotkb:Q12159,intact-miscore:0.44,YPL227C,YDR381W
+13977,uniprotkb:P40578,uniprotkb:P46672,intact-miscore:0.44,YIR033W,YGL105W
+13978,uniprotkb:Q99271,uniprotkb:P46672,intact-miscore:0.44,YLR138W,YGL105W
+13979,uniprotkb:P53973,uniprotkb:P46672,intact-miscore:0.40,YNL021W,YGL105W
+13980,uniprotkb:P12954,uniprotkb:P46672,intact-miscore:0.40,YJL092W,YGL105W
+13981,uniprotkb:P46672,uniprotkb:Q06554,intact-miscore:0.44,YGL105W,YLR247C
+13982,uniprotkb:P46672,uniprotkb:Q08601,intact-miscore:0.44,YGL105W,YOR197W
+13983,uniprotkb:P46672,uniprotkb:P35736,intact-miscore:0.44,YGL105W,YKL050C
+13984,uniprotkb:P46672,uniprotkb:P32606,intact-miscore:0.44,YGL105W,YOR017W
+13985,uniprotkb:P53923,uniprotkb:P46672,intact-miscore:0.44,YNL119W,YGL105W
+13986,uniprotkb:P38270,uniprotkb:P46672,intact-miscore:0.44,YBR128C,YGL105W
+13987,uniprotkb:P46672,uniprotkb:P38361,intact-miscore:0.44,YGL105W,YBR296C
+13988,uniprotkb:P46672,uniprotkb:P27514,intact-miscore:0.44,YGL105W,YNR013C
+13989,uniprotkb:P38835,uniprotkb:P46672,intact-miscore:0.40,YHR131C,YGL105W
+13990,uniprotkb:P0C2J7,uniprotkb:P46672,intact-miscore:0.40,YHL009W-B,YGL105W
+13991,uniprotkb:P39113,uniprotkb:P46672,intact-miscore:0.44,YMR280C,YGL105W
+13992,uniprotkb:P38995,uniprotkb:P46672,intact-miscore:0.44,YDR270W,YGL105W
+13993,uniprotkb:P40094,uniprotkb:P46672,intact-miscore:0.40,YER157W,YGL105W
+13994,uniprotkb:P32324,uniprotkb:P46672,intact-miscore:0.40,YOR133W,YGL105W
+14322,uniprotkb:P38835,uniprotkb:P15790,intact-miscore:0.56,YHR131C,YIL035C
+14334,uniprotkb:P38634,uniprotkb:P20486,intact-miscore:0.56,YLR079W,YBR135W
+14335,uniprotkb:P20486,uniprotkb:P10081,intact-miscore:0.40,YBR135W,YJL138C
+14341,uniprotkb:P24870,uniprotkb:P38634,intact-miscore:0.67,YDL155W,YLR079W
+14342,uniprotkb:P00546,uniprotkb:P24870,intact-miscore:0.62,YBR160W,YDL155W
+14343,uniprotkb:P20486,uniprotkb:P24870,intact-miscore:0.81,YBR135W,YDL155W
+14415,uniprotkb:P33302,uniprotkb:Q04659,intact-miscore:0.40,YOR153W,YMR048W
+14419,uniprotkb:Q04659,uniprotkb:P46655,intact-miscore:0.40,YMR048W,YGL245W
+14421,uniprotkb:P0C2J7,uniprotkb:Q04659,intact-miscore:0.40,YHL009W-B,YMR048W
+14423,uniprotkb:Q04659,uniprotkb:P09733,intact-miscore:0.40,YMR048W,YML085C
+14543,uniprotkb:P38903,uniprotkb:P54861,intact-miscore:0.44,YOR014W,YLL001W
+14556,uniprotkb:P24482,uniprotkb:P25344,intact-miscore:0.40,YPR175W,YCL032W
+14558,uniprotkb:P54791,uniprotkb:P24482,intact-miscore:0.40,YPR162C,YPR175W
+14563,uniprotkb:P24482,uniprotkb:P38828,intact-miscore:0.40,YPR175W,YHR121W
+14568,uniprotkb:P54784,uniprotkb:P24482,intact-miscore:0.40,YML065W,YPR175W
+14574,uniprotkb:P24482,uniprotkb:P38300,intact-miscore:0.44,YPR175W,YBR185C
+14579,uniprotkb:P25344,uniprotkb:P27344,intact-miscore:0.40,YCL032W,YBR278W
+14580,uniprotkb:Q12159,uniprotkb:P27344,intact-miscore:0.40,YDR381W,YBR278W
+14582,uniprotkb:P27344,uniprotkb:P24482,intact-miscore:0.77,YBR278W,YPR175W
+14727,uniprotkb:P08518,uniprotkb:P22696,intact-miscore:0.56,YOR151C,YJR017C
+14918,uniprotkb:Q12341,uniprotkb:Q12159,intact-miscore:0.40,YPL001W,YDR381W
+14923,uniprotkb:P02294,uniprotkb:Q12341,intact-miscore:0.40,YBL002W,YPL001W
+14929,uniprotkb:Q12341,uniprotkb:P50874,intact-miscore:0.44,YPL001W,YNL261W
+14952,uniprotkb:P46672,uniprotkb:P38199,intact-miscore:0.44,YGL105W,YBL032W
+14953,uniprotkb:P38199,uniprotkb:P46655,intact-miscore:0.40,YBL032W,YGL245W
+14957,uniprotkb:P02294,uniprotkb:P11353,intact-miscore:0.40,YBL002W,YDR044W
+14958,uniprotkb:P09435,uniprotkb:P11353,intact-miscore:0.56,YBL075C,YDR044W
+14963,uniprotkb:P11353,uniprotkb:P32324,intact-miscore:0.40,YDR044W,YOR133W
+15075,uniprotkb:Q12329,uniprotkb:P32288,intact-miscore:0.70,YDR171W,YPR035W
+15260,uniprotkb:P25344,uniprotkb:P53125,intact-miscore:0.40,YCL032W,YGL133W
+15426,uniprotkb:Q12159,uniprotkb:P40513,intact-miscore:0.40,YDR381W,YIL070C
+15520,uniprotkb:P00958,uniprotkb:P46655,intact-miscore:0.56,YGR264C,YGL245W
+15523,uniprotkb:Q12159,uniprotkb:P39692,intact-miscore:0.40,YDR381W,YFR030W
+15532,uniprotkb:P46673,uniprotkb:Q99257,intact-miscore:0.44,YJR042W,YPL169C
+15561,uniprotkb:P48415,uniprotkb:P40185,intact-miscore:0.40,YPL085W,YIL051C
+15566,uniprotkb:P40513,uniprotkb:P40185,intact-miscore:0.40,YIL070C,YIL051C
+15568,uniprotkb:P40185,uniprotkb:P25293,intact-miscore:0.40,YIL051C,YKR048C
+15718,uniprotkb:Q12230,uniprotkb:P32335,intact-miscore:0.40,YPL004C,YLR203C
+15783,uniprotkb:Q12159,uniprotkb:P25293,intact-miscore:0.56,YDR381W,YKR048C
+15789,uniprotkb:P02294,uniprotkb:P25293,intact-miscore:0.56,YBL002W,YKR048C
+16013,uniprotkb:P54784,uniprotkb:P02294,intact-miscore:0.40,YML065W,YBL002W
+16014,uniprotkb:Q12159,uniprotkb:P54784,intact-miscore:0.40,YDR381W,YML065W
+16015,uniprotkb:P39984,uniprotkb:P54784,intact-miscore:0.40,YEL056W,YML065W
+16016,uniprotkb:Q12341,uniprotkb:P54784,intact-miscore:0.44,YPL001W,YML065W
+16019,uniprotkb:P32833,uniprotkb:Q12341,intact-miscore:0.44,YBR060C,YPL001W
+16023,uniprotkb:P02294,uniprotkb:P32833,intact-miscore:0.40,YBL002W,YBR060C
+16024,uniprotkb:P54784,uniprotkb:P32833,intact-miscore:0.70,YML065W,YBR060C
+16025,uniprotkb:P54790,uniprotkb:P39984,intact-miscore:0.40,YLL004W,YEL056W
+16026,uniprotkb:P54790,uniprotkb:P54784,intact-miscore:0.70,YLL004W,YML065W
+16027,uniprotkb:P54790,uniprotkb:Q12341,intact-miscore:0.44,YLL004W,YPL001W
+16028,uniprotkb:P54791,uniprotkb:Q12159,intact-miscore:0.40,YPR162C,YDR381W
+16029,uniprotkb:P54791,uniprotkb:P02294,intact-miscore:0.40,YPR162C,YBL002W
+16030,uniprotkb:P54791,uniprotkb:P39984,intact-miscore:0.40,YPR162C,YEL056W
+16031,uniprotkb:Q12341,uniprotkb:P54791,intact-miscore:0.44,YPL001W,YPR162C
+16032,uniprotkb:P54791,uniprotkb:P32833,intact-miscore:0.67,YPR162C,YBR060C
+16033,uniprotkb:P39984,uniprotkb:P50874,intact-miscore:0.40,YEL056W,YNL261W
+16034,uniprotkb:P50874,uniprotkb:P02294,intact-miscore:0.40,YNL261W,YBL002W
+16035,uniprotkb:P54784,uniprotkb:P50874,intact-miscore:0.70,YML065W,YNL261W
+16036,uniprotkb:P38828,uniprotkb:P38826,intact-miscore:0.40,YHR121W,YHR118C
+16038,uniprotkb:Q12159,uniprotkb:P38826,intact-miscore:0.40,YDR381W,YHR118C
+16039,uniprotkb:P38826,uniprotkb:P54791,intact-miscore:0.56,YHR118C,YPR162C
+16041,uniprotkb:P38826,uniprotkb:P02294,intact-miscore:0.40,YHR118C,YBL002W
+16043,uniprotkb:Q12341,uniprotkb:P38826,intact-miscore:0.44,YPL001W,YHR118C
+16044,uniprotkb:P38826,uniprotkb:P39984,intact-miscore:0.40,YHR118C,YEL056W
+16324,uniprotkb:Q12159,uniprotkb:Q12159,intact-miscore:0.37,YDR381W,YDR381W
+16368,uniprotkb:P23561,uniprotkb:P40073,intact-miscore:0.52,YLR362W,YER118C
+16369,uniprotkb:P40073,uniprotkb:P25344,intact-miscore:0.52,YER118C,YCL032W
+16391,uniprotkb:P39723,uniprotkb:P32566,intact-miscore:0.37,YAL047C,YGR229C
+16485,uniprotkb:Q02159,uniprotkb:P40318,intact-miscore:0.40,YMR022W,YIL030C
+16497,uniprotkb:P07251,uniprotkb:P07143,intact-miscore:0.35,YBL099W,YOR065W
+16499,uniprotkb:P07251,uniprotkb:P07257,intact-miscore:0.35,YBL099W,YPR191W
+16624,uniprotkb:P07143,uniprotkb:P00163,intact-miscore:0.40,YOR065W,Q0105
+16625,uniprotkb:P07143,uniprotkb:P37299,intact-miscore:0.40,YOR065W,YHR001W-A
+16626,uniprotkb:P07143,uniprotkb:P07256,intact-miscore:0.40,YOR065W,YBL045C
+16627,uniprotkb:P07143,uniprotkb:P07257,intact-miscore:0.40,YOR065W,YPR191W
+16628,uniprotkb:P07143,uniprotkb:P00127,intact-miscore:0.40,YOR065W,YFR033C
+16629,uniprotkb:P07143,uniprotkb:P00128,intact-miscore:0.40,YOR065W,YDR529C
+16630,uniprotkb:P07143,uniprotkb:P08525,intact-miscore:0.40,YOR065W,YJL166W
+16631,uniprotkb:P07143,uniprotkb:P22289,intact-miscore:0.40,YOR065W,YGR183C
+16632,uniprotkb:P07143,uniprotkb:P08067,intact-miscore:0.40,YOR065W,YEL024W
+16777,uniprotkb:P48415,uniprotkb:P38968,intact-miscore:0.51,YPL085W,YDL195W
+16778,uniprotkb:P15303,uniprotkb:P38968,intact-miscore:0.63,YPR181C,YDL195W
+16899,uniprotkb:P54790,uniprotkb:P38826,intact-miscore:0.68,YLL004W,YHR118C
+16900,uniprotkb:P50874,uniprotkb:P32833,intact-miscore:0.68,YNL261W,YBR060C
+16901,uniprotkb:P54784,uniprotkb:P54791,intact-miscore:0.82,YML065W,YPR162C
+16902,uniprotkb:P54790,uniprotkb:P54791,intact-miscore:0.68,YLL004W,YPR162C
+16903,uniprotkb:P54790,uniprotkb:P50874,intact-miscore:0.57,YLL004W,YNL261W
+16904,uniprotkb:P50874,uniprotkb:P38826,intact-miscore:0.68,YNL261W,YHR118C
+16905,uniprotkb:P54790,uniprotkb:P54790,intact-miscore:0.37,YLL004W,YLL004W
+16906,uniprotkb:P50874,uniprotkb:P50874,intact-miscore:0.37,YNL261W,YNL261W
+16907,uniprotkb:P38826,uniprotkb:P38826,intact-miscore:0.37,YHR118C,YHR118C
+17034,uniprotkb:Q04491,uniprotkb:Q04491,intact-miscore:0.40,YLR208W,YLR208W
+17068,uniprotkb:P36027,uniprotkb:Q08245,intact-miscore:0.37,YLR332W,YOL109W
+17168,uniprotkb:P10614,uniprotkb:P10614,author score:99.00|intact-miscore:0.55,YHR007C,YHR007C
+17171,uniprotkb:P10614,uniprotkb:P19807,author score:97.95|intact-miscore:0.37,YHR007C,YGL077C
+17172,uniprotkb:P26570,uniprotkb:P10614,author score:99.00|intact-miscore:0.37,YML016C,YHR007C
+17174,uniprotkb:P32465,uniprotkb:P10614,author score:99.00|intact-miscore:0.37,YHR094C,YHR007C
+17176,uniprotkb:P10614,uniprotkb:P36027,author score:98.00|intact-miscore:0.37,YHR007C,YLR332W
+17183,uniprotkb:P10614,uniprotkb:P53049,author score:97.40|intact-miscore:0.37,YHR007C,YGR281W
+17184,uniprotkb:P10614,uniprotkb:Q02201,author score:99.00|intact-miscore:0.37,YHR007C,YKR003W
+17186,uniprotkb:Q12443,uniprotkb:P10614,author score:97.95|intact-miscore:0.37,YDL204W,YHR007C
+17187,uniprotkb:Q12256,uniprotkb:P10614,author score:99.00|intact-miscore:0.37,YOR273C,YHR007C
+17189,uniprotkb:P10614,uniprotkb:Q08967,author score:99.00|intact-miscore:0.37,YHR007C,YPL221W
+17193,uniprotkb:P10823,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YER020W,YBR052C
+17194,uniprotkb:P36027,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YLR332W,YER020W
+17196,uniprotkb:P10823,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YER020W,YGR138C
+17197,uniprotkb:P53278,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YGR130C,YER020W
+17198,uniprotkb:P53139,uniprotkb:P10823,author score:98.67|intact-miscore:0.37,YGL108C,YER020W
+17199,uniprotkb:Q02201,uniprotkb:P10823,author score:97.60|intact-miscore:0.37,YKR003W,YER020W
+17200,uniprotkb:P53832,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YNL283C,YER020W
+17201,uniprotkb:P10823,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YER020W,YML072C
+17202,uniprotkb:P10823,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YER020W,YPL058C
+17203,uniprotkb:Q06689,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YLR413W,YER020W
+17204,uniprotkb:P10823,uniprotkb:Q06451,author score:99.00|intact-miscore:0.37,YER020W,YPR156C
+17206,uniprotkb:Q08967,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YPL221W,YER020W
+17263,uniprotkb:P32465,uniprotkb:P14359,author score:99.27|intact-miscore:0.37,YHR094C,YJL151C
+17266,uniprotkb:P14359,uniprotkb:P32610,author score:99.00|intact-miscore:0.37,YJL151C,YEL051W
+17272,uniprotkb:P40094,uniprotkb:P14359,author score:99.34|intact-miscore:0.37,YER157W,YJL151C
+17276,uniprotkb:P14359,uniprotkb:P50276,author score:99.30|intact-miscore:0.37,YJL151C,YGR055W
+17278,uniprotkb:P14359,uniprotkb:Q02785,author score:99.27|intact-miscore:0.37,YJL151C,YPL058C
+17307,uniprotkb:P17898,uniprotkb:P10614,author score:99.00|intact-miscore:0.37,YNL130C,YHR007C
+17309,uniprotkb:P17898,uniprotkb:P26570,author score:99.27|intact-miscore:0.37,YNL130C,YML016C
+17316,uniprotkb:P10823,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YER020W,YGL077C
+17318,uniprotkb:P19807,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YGL077C,YGL077C
+17320,uniprotkb:P33302,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YOR153W,YGL077C
+17322,uniprotkb:P19807,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YGL077C,YBR052C
+17326,uniprotkb:P19807,uniprotkb:P53278,author score:99.00|intact-miscore:0.37,YGL077C,YGR130C
+17327,uniprotkb:P53139,uniprotkb:P19807,author score:99.27|intact-miscore:0.37,YGL108C,YGL077C
+17328,uniprotkb:Q02785,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YPL058C,YGL077C
+17331,uniprotkb:Q06451,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YPR156C,YGL077C
+17332,uniprotkb:Q06689,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YLR413W,YGL077C
+17333,uniprotkb:P19807,uniprotkb:Q08967,author score:99.00|intact-miscore:0.37,YGL077C,YPL221W
+17341,uniprotkb:P10614,uniprotkb:P21147,author score:99.00|intact-miscore:0.37,YHR007C,YGL055W
+17343,uniprotkb:P21147,uniprotkb:P21147,author score:99.00|intact-miscore:0.37,YGL055W,YGL055W
+17344,uniprotkb:P36027,uniprotkb:P21147,author score:99.00|intact-miscore:0.37,YLR332W,YGL055W
+17345,uniprotkb:P26570,uniprotkb:P21147,author score:99.00|intact-miscore:0.37,YML016C,YGL055W
+17346,uniprotkb:P21147,uniprotkb:P38264,author score:99.00|intact-miscore:0.37,YGL055W,YBR106W
+17352,uniprotkb:Q12256,uniprotkb:P21147,author score:99.00|intact-miscore:0.37,YOR273C,YGL055W
+17377,uniprotkb:P26570,uniprotkb:P23900,author score:99.30|intact-miscore:0.37,YML016C,YLL043W
+17378,uniprotkb:P23900,uniprotkb:P36027,author score:99.33|intact-miscore:0.37,YLL043W,YLR332W
+17399,uniprotkb:P25045,uniprotkb:P36027,author score:99.31|intact-miscore:0.37,YMR296C,YLR332W
+17400,uniprotkb:P25045,uniprotkb:P14359,author score:99.31|intact-miscore:0.37,YMR296C,YJL151C
+17429,uniprotkb:P25619,uniprotkb:P10823,author score:97.53|intact-miscore:0.37,YCR021C,YER020W
+17430,uniprotkb:P25619,uniprotkb:P14359,author score:99.31|intact-miscore:0.37,YCR021C,YJL151C
+17431,uniprotkb:P25619,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YCR021C,YGL077C
+17432,uniprotkb:P25619,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YCR021C,YCR021C
+17433,uniprotkb:P26570,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YML016C,YCR021C
+17435,uniprotkb:P25619,uniprotkb:P30605,author score:99.30|intact-miscore:0.37,YCR021C,YDR497C
+17436,uniprotkb:P32465,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YHR094C,YCR021C
+17437,uniprotkb:P32568,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YDR011W,YCR021C
+17439,uniprotkb:P36027,uniprotkb:P25619,author score:99.30|intact-miscore:0.37,YLR332W,YCR021C
+17440,uniprotkb:P38695,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YHR096C,YCR021C
+17441,uniprotkb:P53283,uniprotkb:P25619,author score:99.30|intact-miscore:0.37,YGR138C,YCR021C
+17442,uniprotkb:P53278,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YGR130C,YCR021C
+17443,uniprotkb:Q02201,uniprotkb:P25619,author score:97.54|intact-miscore:0.37,YKR003W,YCR021C
+17444,uniprotkb:Q02785,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YPL058C,YCR021C
+17447,uniprotkb:P25619,uniprotkb:Q08967,author score:99.00|intact-miscore:0.37,YCR021C,YPL221W
+17449,uniprotkb:Q99271,uniprotkb:P25619,author score:98.67|intact-miscore:0.37,YLR138W,YCR021C
+17450,uniprotkb:P25623,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YCR030C,YER020W
+17451,uniprotkb:P25623,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YCR030C,YGL077C
+17453,uniprotkb:P25623,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YCR030C,YKL051W
+17456,uniprotkb:P53278,uniprotkb:P25623,author score:99.00|intact-miscore:0.37,YGR130C,YCR030C
+17457,uniprotkb:P25623,uniprotkb:P53832,author score:99.00|intact-miscore:0.37,YCR030C,YNL283C
+17458,uniprotkb:P25623,uniprotkb:Q04439,author score:99.00|intact-miscore:0.37,YCR030C,YMR109W
+17459,uniprotkb:Q02785,uniprotkb:P25623,author score:99.00|intact-miscore:0.37,YPL058C,YCR030C
+17462,uniprotkb:Q08967,uniprotkb:P25623,author score:99.00|intact-miscore:0.37,YPL221W,YCR030C
+17463,uniprotkb:Q12446,uniprotkb:P25623,author score:99.00|intact-miscore:0.37,YOR181W,YCR030C
+17469,uniprotkb:P26570,uniprotkb:P19807,author score:99.32|intact-miscore:0.37,YML016C,YGL077C
+17470,uniprotkb:P26570,uniprotkb:P36027,author score:99.28|intact-miscore:0.37,YML016C,YLR332W
+17471,uniprotkb:P26570,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YML016C,YPL058C
+17472,uniprotkb:P26570,uniprotkb:Q08967,author score:97.60|intact-miscore:0.37,YML016C,YPL221W
+17473,uniprotkb:P26570,uniprotkb:Q12256,author score:99.00|intact-miscore:0.37,YML016C,YOR273C
+17474,uniprotkb:Q99271,uniprotkb:P26570,author score:99.00|intact-miscore:0.37,YLR138W,YML016C
+17513,uniprotkb:P29366,uniprotkb:P29366,author score:98.72|intact-miscore:0.37,YBR200W,YBR200W
+17522,uniprotkb:P19807,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YGL077C,YDR497C
+17523,uniprotkb:P36027,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YLR332W,YDR497C
+17524,uniprotkb:P38234,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YBR052C,YDR497C
+17526,uniprotkb:P53278,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YGR130C,YDR497C
+17527,uniprotkb:P30605,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YDR497C,YPL058C
+17528,uniprotkb:Q03640,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YML072C,YDR497C
+17529,uniprotkb:P30605,uniprotkb:Q08967,author score:99.25|intact-miscore:0.37,YDR497C,YPL221W
+17576,uniprotkb:P32445,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YCR028C-A,YER020W
+17577,uniprotkb:P32445,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YCR028C-A,YGL077C
+17582,uniprotkb:P35735,uniprotkb:P32445,author score:99.00|intact-miscore:0.37,YKL051W,YCR028C-A
+17583,uniprotkb:P36027,uniprotkb:P32445,author score:99.00|intact-miscore:0.37,YLR332W,YCR028C-A
+17587,uniprotkb:P32445,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YCR028C-A,YGR055W
+17588,uniprotkb:P32445,uniprotkb:P53278,author score:99.00|intact-miscore:0.37,YCR028C-A,YGR130C
+17589,uniprotkb:P32445,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YCR028C-A,YGR138C
+17591,uniprotkb:P32445,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YCR028C-A,YPL058C
+17592,uniprotkb:P32445,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YCR028C-A,YML072C
+17594,uniprotkb:Q06689,uniprotkb:P32445,author score:99.00|intact-miscore:0.37,YLR413W,YCR028C-A
+17595,uniprotkb:P32445,uniprotkb:Q07651,author score:99.28|intact-miscore:0.37,YCR028C-A,YDL222C
+17597,uniprotkb:P32445,uniprotkb:Q12256,author score:99.00|intact-miscore:0.37,YCR028C-A,YOR273C
+17606,uniprotkb:P32465,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YHR094C,YGL077C
+17608,uniprotkb:P32465,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YHR094C,YHR094C
+17609,uniprotkb:P32465,uniprotkb:P36027,author score:97.53|intact-miscore:0.37,YHR094C,YLR332W
+17610,uniprotkb:P32465,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YHR094C,YBR052C
+17612,uniprotkb:P32465,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YHR094C,YPL058C
+17613,uniprotkb:Q06451,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YPR156C,YHR094C
+17633,uniprotkb:P32610,uniprotkb:P32563,author score:99.28|intact-miscore:0.55,YEL051W,YOR270C
+17634,uniprotkb:P38310,uniprotkb:P32563,author score:99.00|intact-miscore:0.37,YBR207W,YOR270C
+17640,uniprotkb:P19807,uniprotkb:P32566,author score:98.00|intact-miscore:0.37,YGL077C,YGR229C
+17642,uniprotkb:P32566,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YGR229C,YLR332W
+17648,uniprotkb:Q12057,uniprotkb:P32566,author score:99.00|intact-miscore:0.37,YOR104W,YGR229C
+17650,uniprotkb:P19807,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YGL077C,YDR011W
+17651,uniprotkb:P32465,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YHR094C,YDR011W
+17652,uniprotkb:P32568,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YDR011W,YDR011W
+17654,uniprotkb:P38695,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YHR096C,YDR011W
+17655,uniprotkb:P50276,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YGR055W,YDR011W
+17656,uniprotkb:P53388,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YPL265W,YDR011W
+17657,uniprotkb:P32568,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YDR011W,YPL058C
+17658,uniprotkb:P32568,uniprotkb:Q06451,author score:99.00|intact-miscore:0.37,YDR011W,YPR156C
+17709,uniprotkb:P33302,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YOR153W,YHR094C
+17710,uniprotkb:P33302,uniprotkb:P38695,author score:99.00|intact-miscore:0.37,YOR153W,YHR096C
+17803,uniprotkb:P35735,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YKL051W,YGL077C
+17804,uniprotkb:P10823,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YER020W,YKL051W
+17805,uniprotkb:P25619,uniprotkb:P35735,author score:99.25|intact-miscore:0.37,YCR021C,YKL051W
+17806,uniprotkb:P26570,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YML016C,YKL051W
+17807,uniprotkb:P35735,uniprotkb:P29366,author score:93.51|intact-miscore:0.37,YKL051W,YBR200W
+17808,uniprotkb:P32465,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YHR094C,YKL051W
+17809,uniprotkb:P35735,uniprotkb:P32568,author score:99.00|intact-miscore:0.37,YKL051W,YDR011W
+17810,uniprotkb:P35735,uniprotkb:P33302,author score:99.00|intact-miscore:0.37,YKL051W,YOR153W
+17812,uniprotkb:P35735,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YKL051W,YKL051W
+17813,uniprotkb:P35735,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YKL051W,YBR052C
+17814,uniprotkb:P35735,uniprotkb:P38695,author score:99.00|intact-miscore:0.37,YKL051W,YHR096C
+17818,uniprotkb:P35735,uniprotkb:P53139,author score:99.00|intact-miscore:0.37,YKL051W,YGL108C
+17819,uniprotkb:P35735,uniprotkb:P53278,author score:99.00|intact-miscore:0.37,YKL051W,YGR130C
+17820,uniprotkb:P53390,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YPR138C,YKL051W
+17821,uniprotkb:P53832,uniprotkb:P35735,author score:99.25|intact-miscore:0.37,YNL283C,YKL051W
+17822,uniprotkb:Q02785,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YPL058C,YKL051W
+17825,uniprotkb:P35735,uniprotkb:Q06451,author score:99.00|intact-miscore:0.37,YKL051W,YPR156C
+17826,uniprotkb:P35735,uniprotkb:Q06689,author score:99.00|intact-miscore:0.37,YKL051W,YLR413W
+17827,uniprotkb:Q08967,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YPL221W,YKL051W
+17836,uniprotkb:P36027,uniprotkb:P19807,author score:96.02|intact-miscore:0.37,YLR332W,YGL077C
+17837,uniprotkb:P36027,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YLR332W,YKL051W
+17838,uniprotkb:P36027,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YLR332W,YLR332W
+17839,uniprotkb:P36027,uniprotkb:P53139,author score:98.00|intact-miscore:0.37,YLR332W,YGL108C
+17840,uniprotkb:P36027,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YLR332W,YPL058C
+17950,uniprotkb:P38264,uniprotkb:P10614,author score:99.00|intact-miscore:0.37,YBR106W,YHR007C
+17955,uniprotkb:P32465,uniprotkb:P38264,author score:99.00|intact-miscore:0.37,YHR094C,YBR106W
+17957,uniprotkb:P38264,uniprotkb:P38264,author score:99.00|intact-miscore:0.37,YBR106W,YBR106W
+17958,uniprotkb:P38264,uniprotkb:Q06451,author score:99.00|intact-miscore:0.37,YBR106W,YPR156C
+17982,uniprotkb:P38310,uniprotkb:P32465,author score:97.60|intact-miscore:0.37,YBR207W,YHR094C
+17983,uniprotkb:P32610,uniprotkb:P38310,author score:99.00|intact-miscore:0.37,YEL051W,YBR207W
+18023,uniprotkb:P38695,uniprotkb:P19807,author score:99.25|intact-miscore:0.37,YHR096C,YGL077C
+18024,uniprotkb:P38695,uniprotkb:P40474,author score:99.33|intact-miscore:0.37,YHR096C,YIL121W
+18025,uniprotkb:P38695,uniprotkb:P50276,author score:99.36|intact-miscore:0.37,YHR096C,YGR055W
+18026,uniprotkb:P53388,uniprotkb:P38695,author score:99.36|intact-miscore:0.37,YPL265W,YHR096C
+18027,uniprotkb:P38695,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YHR096C,YPL058C
+18028,uniprotkb:P38695,uniprotkb:Q06451,author score:99.00|intact-miscore:0.37,YHR096C,YPR156C
+18036,uniprotkb:P38755,uniprotkb:P10823,author score:99.31|intact-miscore:0.37,YHR001W,YER020W
+18037,uniprotkb:P19807,uniprotkb:P38755,author score:99.00|intact-miscore:0.37,YGL077C,YHR001W
+18038,uniprotkb:P25619,uniprotkb:P38755,author score:99.27|intact-miscore:0.37,YCR021C,YHR001W
+18040,uniprotkb:P38755,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YHR001W,YLR332W
+18041,uniprotkb:P38755,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YHR001W,YGR055W
+18042,uniprotkb:P53049,uniprotkb:P38755,author score:99.33|intact-miscore:0.37,YGR281W,YHR001W
+18043,uniprotkb:P53832,uniprotkb:P38755,author score:99.31|intact-miscore:0.37,YNL283C,YHR001W
+18044,uniprotkb:Q02785,uniprotkb:P38755,author score:99.00|intact-miscore:0.37,YPL058C,YHR001W
+18045,uniprotkb:Q03640,uniprotkb:P38755,author score:99.00|intact-miscore:0.37,YML072C,YHR001W
+18046,uniprotkb:Q08967,uniprotkb:P38755,author score:99.35|intact-miscore:0.37,YPL221W,YHR001W
+18047,uniprotkb:P38755,uniprotkb:Q12256,author score:99.00|intact-miscore:0.37,YHR001W,YOR273C
+18048,uniprotkb:P38755,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YHR001W,YDR032C
+18079,uniprotkb:P38903,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YOR014W,YLR332W
+18212,uniprotkb:P40088,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YER145C,YER020W
+18213,uniprotkb:P19807,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YGL077C,YER145C
+18214,uniprotkb:P40088,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YER145C,YDR497C
+18215,uniprotkb:P40088,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YER145C,YHR094C
+18217,uniprotkb:P40088,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YER145C,YKL051W
+18218,uniprotkb:P36027,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YLR332W,YER145C
+18219,uniprotkb:P40088,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YER145C,YBR052C
+18220,uniprotkb:P40088,uniprotkb:P38695,author score:99.00|intact-miscore:0.37,YER145C,YHR096C
+18223,uniprotkb:P50276,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YGR055W,YER145C
+18224,uniprotkb:P53049,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YGR281W,YER145C
+18225,uniprotkb:P40088,uniprotkb:P53278,author score:99.00|intact-miscore:0.37,YER145C,YGR130C
+18226,uniprotkb:P40088,uniprotkb:P53283,author score:97.53|intact-miscore:0.37,YER145C,YGR138C
+18227,uniprotkb:Q02785,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YPL058C,YER145C
+18228,uniprotkb:Q03640,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YML072C,YER145C
+18230,uniprotkb:P40088,uniprotkb:Q06451,author score:99.00|intact-miscore:0.37,YER145C,YPR156C
+18231,uniprotkb:Q06689,uniprotkb:P40088,author score:99.00|intact-miscore:0.37,YLR413W,YER145C
+18232,uniprotkb:P40088,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YER145C,YDL222C
+18233,uniprotkb:P40088,uniprotkb:Q08967,author score:99.00|intact-miscore:0.37,YER145C,YPL221W
+18234,uniprotkb:P40088,uniprotkb:Q12256,author score:98.67|intact-miscore:0.37,YER145C,YOR273C
+18235,uniprotkb:Q12335,uniprotkb:P40088,author score:97.53|intact-miscore:0.37,YDR032C,YER145C
+18238,uniprotkb:P40094,uniprotkb:P40094,author score:99.00|intact-miscore:0.37,YER157W,YER157W
+18249,uniprotkb:P19807,uniprotkb:P40474,author score:99.00|intact-miscore:0.37,YGL077C,YIL121W
+18250,uniprotkb:P32465,uniprotkb:P40474,author score:99.00|intact-miscore:0.37,YHR094C,YIL121W
+18251,uniprotkb:P40474,uniprotkb:P32568,author score:99.25|intact-miscore:0.37,YIL121W,YDR011W
+18252,uniprotkb:P40474,uniprotkb:P33302,author score:99.00|intact-miscore:0.37,YIL121W,YOR153W
+18253,uniprotkb:P35735,uniprotkb:P40474,author score:99.25|intact-miscore:0.37,YKL051W,YIL121W
+18254,uniprotkb:P36027,uniprotkb:P40474,author score:99.00|intact-miscore:0.37,YLR332W,YIL121W
+18255,uniprotkb:P40474,uniprotkb:P38234,author score:99.34|intact-miscore:0.37,YIL121W,YBR052C
+18256,uniprotkb:P40474,uniprotkb:P40474,author score:99.34|intact-miscore:0.37,YIL121W,YIL121W
+18257,uniprotkb:P40474,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YIL121W,YPL058C
+18258,uniprotkb:P40474,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YIL121W,YML072C
+18259,uniprotkb:Q06689,uniprotkb:P40474,author score:99.25|intact-miscore:0.37,YLR413W,YIL121W
+18260,uniprotkb:P40474,uniprotkb:Q07824,author score:99.30|intact-miscore:0.37,YIL121W,YLL028W
+18265,uniprotkb:Q04410,uniprotkb:P40482,author score:99.00|intact-miscore:0.81,YDR517W,YIL109C
+18266,uniprotkb:P40485,uniprotkb:P10823,author score:99.30|intact-miscore:0.37,YIL105C,YER020W
+18267,uniprotkb:P19807,uniprotkb:P40485,author score:97.53|intact-miscore:0.37,YGL077C,YIL105C
+18269,uniprotkb:P35735,uniprotkb:P40485,author score:99.00|intact-miscore:0.37,YKL051W,YIL105C
+18270,uniprotkb:P36027,uniprotkb:P40485,author score:99.00|intact-miscore:0.37,YLR332W,YIL105C
+18271,uniprotkb:P40485,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YIL105C,YBR052C
+18272,uniprotkb:P53278,uniprotkb:P40485,author score:99.00|intact-miscore:0.37,YGR130C,YIL105C
+18273,uniprotkb:P53283,uniprotkb:P40485,author score:99.00|intact-miscore:0.37,YGR138C,YIL105C
+18274,uniprotkb:P40485,uniprotkb:Q02785,author score:97.54|intact-miscore:0.37,YIL105C,YPL058C
+18275,uniprotkb:P40485,uniprotkb:Q12335,author score:99.30|intact-miscore:0.37,YIL105C,YDR032C
+18278,uniprotkb:P40513,uniprotkb:P19807,author score:99.30|intact-miscore:0.37,YIL070C,YGL077C
+18279,uniprotkb:P35735,uniprotkb:P40513,author score:99.00|intact-miscore:0.37,YKL051W,YIL070C
+18280,uniprotkb:P36027,uniprotkb:P40513,author score:99.30|intact-miscore:0.37,YLR332W,YIL070C
+18281,uniprotkb:P40513,uniprotkb:P38234,author score:99.30|intact-miscore:0.37,YIL070C,YBR052C
+18282,uniprotkb:P40485,uniprotkb:P40513,author score:99.30|intact-miscore:0.37,YIL105C,YIL070C
+18283,uniprotkb:Q12335,uniprotkb:P40513,author score:99.28|intact-miscore:0.37,YDR032C,YIL070C
+18386,uniprotkb:P46682,uniprotkb:P46682,author score:99.00|intact-miscore:0.37,YGR261C,YGR261C
+18392,uniprotkb:P46965,uniprotkb:P10614,author score:99.00|intact-miscore:0.37,YJR010C-A,YHR007C
+18394,uniprotkb:P38264,uniprotkb:P46965,author score:99.00|intact-miscore:0.37,YBR106W,YJR010C-A
+18418,uniprotkb:P36027,uniprotkb:P47068,author score:99.00|intact-miscore:0.37,YLR332W,YJL020C
+18421,uniprotkb:P47068,uniprotkb:P47068,author score:99.00|intact-miscore:0.37,YJL020C,YJL020C
+18427,uniprotkb:P47122,uniprotkb:P08518,author score:99.25|intact-miscore:0.55,YJR072C,YOR151C
+18460,uniprotkb:P10823,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YER020W,YGR055W
+18461,uniprotkb:P50276,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YGR055W,YGL077C
+18463,uniprotkb:P50276,uniprotkb:P26570,author score:99.00|intact-miscore:0.37,YGR055W,YML016C
+18464,uniprotkb:P30605,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YDR497C,YGR055W
+18465,uniprotkb:P32465,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YHR094C,YGR055W
+18467,uniprotkb:P50276,uniprotkb:P33302,author score:99.00|intact-miscore:0.37,YGR055W,YOR153W
+18469,uniprotkb:P35735,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YKL051W,YGR055W
+18470,uniprotkb:P50276,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YGR055W,YLR332W
+18473,uniprotkb:P38234,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YBR052C,YGR055W
+18476,uniprotkb:P40474,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YIL121W,YGR055W
+18477,uniprotkb:P40485,uniprotkb:P50276,author score:99.37|intact-miscore:0.37,YIL105C,YGR055W
+18478,uniprotkb:P50276,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YGR055W,YGR055W
+18479,uniprotkb:P50276,uniprotkb:P53139,author score:99.25|intact-miscore:0.37,YGR055W,YGL108C
+18480,uniprotkb:P50276,uniprotkb:P53278,author score:99.00|intact-miscore:0.37,YGR055W,YGR130C
+18481,uniprotkb:P50276,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YGR055W,YPL058C
+18484,uniprotkb:Q06451,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YPR156C,YGR055W
+18485,uniprotkb:P50276,uniprotkb:Q06689,author score:99.00|intact-miscore:0.37,YGR055W,YLR413W
+18486,uniprotkb:Q08967,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YPL221W,YGR055W
+18487,uniprotkb:Q12256,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YOR273C,YGR055W
+18522,uniprotkb:P53049,uniprotkb:P10823,author score:99.28|intact-miscore:0.37,YGR281W,YER020W
+18523,uniprotkb:P53049,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YGR281W,YGL077C
+18524,uniprotkb:P53049,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YGR281W,YKL051W
+18525,uniprotkb:P53049,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YGR281W,YLR332W
+18526,uniprotkb:P38234,uniprotkb:P53049,author score:99.28|intact-miscore:0.37,YBR052C,YGR281W
+18527,uniprotkb:P53049,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YGR281W,YGR055W
+18528,uniprotkb:P53049,uniprotkb:P53049,author score:99.00|intact-miscore:0.37,YGR281W,YGR281W
+18529,uniprotkb:P53049,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YGR281W,YPL058C
+18530,uniprotkb:Q08967,uniprotkb:P53049,author score:99.00|intact-miscore:0.37,YPL221W,YGR281W
+18552,uniprotkb:P19807,uniprotkb:P53172,author score:99.00|intact-miscore:0.37,YGL077C,YGL056C
+18553,uniprotkb:P53172,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YGL056C,YHR094C
+18554,uniprotkb:P53172,uniprotkb:P32568,author score:99.30|intact-miscore:0.37,YGL056C,YDR011W
+18555,uniprotkb:P53172,uniprotkb:P33302,author score:99.00|intact-miscore:0.37,YGL056C,YOR153W
+18558,uniprotkb:P53172,uniprotkb:P35735,author score:99.28|intact-miscore:0.37,YGL056C,YKL051W
+18559,uniprotkb:P36027,uniprotkb:P53172,author score:99.00|intact-miscore:0.37,YLR332W,YGL056C
+18560,uniprotkb:P53172,uniprotkb:P38234,author score:99.29|intact-miscore:0.37,YGL056C,YBR052C
+18561,uniprotkb:P53172,uniprotkb:P40474,author score:99.00|intact-miscore:0.37,YGL056C,YIL121W
+18562,uniprotkb:P50276,uniprotkb:P53172,author score:99.00|intact-miscore:0.37,YGR055W,YGL056C
+18563,uniprotkb:P53388,uniprotkb:P53172,author score:99.00|intact-miscore:0.37,YPL265W,YGL056C
+18564,uniprotkb:Q02785,uniprotkb:P53172,author score:99.00|intact-miscore:0.37,YPL058C,YGL056C
+18565,uniprotkb:P53172,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YGL056C,YML072C
+18566,uniprotkb:P53172,uniprotkb:Q06451,author score:99.25|intact-miscore:0.37,YGL056C,YPR156C
+18567,uniprotkb:P53172,uniprotkb:Q06689,author score:99.30|intact-miscore:0.37,YGL056C,YLR413W
+18578,uniprotkb:P53241,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YGR065C,YGL077C
+18579,uniprotkb:P53241,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YGR065C,YKL051W
+18580,uniprotkb:P53241,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YGR065C,YLR332W
+18581,uniprotkb:P38234,uniprotkb:P53241,author score:99.00|intact-miscore:0.37,YBR052C,YGR065C
+18582,uniprotkb:P53241,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YGR065C,YGR055W
+18583,uniprotkb:P53278,uniprotkb:P53241,author score:99.00|intact-miscore:0.37,YGR130C,YGR065C
+18584,uniprotkb:P53241,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YGR065C,YPL058C
+18585,uniprotkb:P53241,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YGR065C,YML072C
+18586,uniprotkb:Q06689,uniprotkb:P53241,author score:99.00|intact-miscore:0.37,YLR413W,YGR065C
+18587,uniprotkb:P53241,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YGR065C,YDL222C
+18594,uniprotkb:P53283,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YGR138C,YGL077C
+18595,uniprotkb:P32465,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YHR094C,YGR138C
+18596,uniprotkb:P32568,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YDR011W,YGR138C
+18597,uniprotkb:P53283,uniprotkb:P33302,author score:99.00|intact-miscore:0.37,YGR138C,YOR153W
+18598,uniprotkb:P35735,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YKL051W,YGR138C
+18599,uniprotkb:P53283,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YGR138C,YLR332W
+18600,uniprotkb:P53283,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YGR138C,YBR052C
+18601,uniprotkb:P38264,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YBR106W,YGR138C
+18602,uniprotkb:P53283,uniprotkb:P38695,author score:99.00|intact-miscore:0.37,YGR138C,YHR096C
+18603,uniprotkb:P53283,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YGR138C,YGR055W
+18604,uniprotkb:P53283,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YGR138C,YPL058C
+18605,uniprotkb:Q06689,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YLR413W,YGR138C
+18631,uniprotkb:P19807,uniprotkb:P53388,author score:99.00|intact-miscore:0.37,YGL077C,YPL265W
+18632,uniprotkb:P53388,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YPL265W,YHR094C
+18634,uniprotkb:P33302,uniprotkb:P53388,author score:99.00|intact-miscore:0.37,YOR153W,YPL265W
+18636,uniprotkb:P50276,uniprotkb:P53388,author score:99.00|intact-miscore:0.37,YGR055W,YPL265W
+18637,uniprotkb:P53388,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YPL265W,YGR138C
+18638,uniprotkb:P53388,uniprotkb:P53388,author score:99.00|intact-miscore:0.37,YPL265W,YPL265W
+18639,uniprotkb:P53388,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YPL265W,YPL058C
+18640,uniprotkb:P53390,uniprotkb:P10823,author score:99.30|intact-miscore:0.37,YPR138C,YER020W
+18641,uniprotkb:P19807,uniprotkb:P53390,author score:99.00|intact-miscore:0.37,YGL077C,YPR138C
+18642,uniprotkb:P53390,uniprotkb:P26570,author score:99.30|intact-miscore:0.37,YPR138C,YML016C
+18644,uniprotkb:P36027,uniprotkb:P53390,author score:99.00|intact-miscore:0.37,YLR332W,YPR138C
+18645,uniprotkb:P38234,uniprotkb:P53390,author score:99.00|intact-miscore:0.37,YBR052C,YPR138C
+18646,uniprotkb:P53390,uniprotkb:P38695,author score:99.30|intact-miscore:0.37,YPR138C,YHR096C
+18647,uniprotkb:P50276,uniprotkb:P53390,author score:99.00|intact-miscore:0.37,YGR055W,YPR138C
+18648,uniprotkb:P53390,uniprotkb:P53049,author score:99.29|intact-miscore:0.37,YPR138C,YGR281W
+18649,uniprotkb:P53390,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YPR138C,YPL058C
+18650,uniprotkb:Q06689,uniprotkb:P53390,author score:99.30|intact-miscore:0.37,YLR413W,YPR138C
+18651,uniprotkb:Q07824,uniprotkb:P53390,author score:99.00|intact-miscore:0.37,YLL028W,YPR138C
+18652,uniprotkb:P53390,uniprotkb:Q08967,author score:99.34|intact-miscore:0.37,YPR138C,YPL221W
+18692,uniprotkb:P53832,uniprotkb:P19807,author score:99.26|intact-miscore:0.37,YNL283C,YGL077C
+18693,uniprotkb:P53832,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YNL283C,YLR332W
+18694,uniprotkb:P53832,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YNL283C,YBR052C
+18696,uniprotkb:P53832,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YNL283C,YGR055W
+18697,uniprotkb:P53139,uniprotkb:P53832,author score:97.54|intact-miscore:0.37,YGL108C,YNL283C
+18698,uniprotkb:P53832,uniprotkb:P53832,author score:98.72|intact-miscore:0.37,YNL283C,YNL283C
+18699,uniprotkb:P53832,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YNL283C,YPL058C
+18700,uniprotkb:Q07651,uniprotkb:P53832,author score:97.60|intact-miscore:0.37,YDL222C,YNL283C
+18810,uniprotkb:Q01896,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YDR039C,YLR332W
+18811,uniprotkb:Q01896,uniprotkb:P38234,author score:99.28|intact-miscore:0.37,YDR039C,YBR052C
+18812,uniprotkb:Q01896,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YDR039C,YPL058C
+18906,uniprotkb:Q03516,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YMR266W,YLR332W
+18933,uniprotkb:Q03640,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YML072C,YGL077C
+18935,uniprotkb:Q03640,uniprotkb:P25619,author score:99.29|intact-miscore:0.37,YML072C,YCR021C
+18936,uniprotkb:Q03640,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YML072C,YHR094C
+18937,uniprotkb:P32568,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YDR011W,YML072C
+18939,uniprotkb:Q03640,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YML072C,YKL051W
+18940,uniprotkb:Q03640,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YML072C,YLR332W
+18941,uniprotkb:Q03640,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YML072C,YBR052C
+18942,uniprotkb:P38695,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YHR096C,YML072C
+18944,uniprotkb:P50276,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YGR055W,YML072C
+18945,uniprotkb:P53049,uniprotkb:Q03640,author score:99.35|intact-miscore:0.37,YGR281W,YML072C
+18946,uniprotkb:Q03640,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YML072C,YGR138C
+18947,uniprotkb:P53388,uniprotkb:Q03640,author score:99.28|intact-miscore:0.37,YPL265W,YML072C
+18948,uniprotkb:Q03640,uniprotkb:P53390,author score:99.31|intact-miscore:0.37,YML072C,YPR138C
+18949,uniprotkb:Q03640,uniprotkb:P53832,author score:99.29|intact-miscore:0.37,YML072C,YNL283C
+18950,uniprotkb:Q02785,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YPL058C,YML072C
+18951,uniprotkb:Q03640,uniprotkb:Q03516,author score:99.00|intact-miscore:0.37,YML072C,YMR266W
+18952,uniprotkb:Q03640,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YML072C,YML072C
+18954,uniprotkb:Q06451,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YPR156C,YML072C
+18955,uniprotkb:Q06689,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YLR413W,YML072C
+18956,uniprotkb:Q08967,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YPL221W,YML072C
+18958,uniprotkb:P26570,uniprotkb:Q03653,author score:99.29|intact-miscore:0.37,YML016C,YMR212C
+18959,uniprotkb:Q03653,uniprotkb:P36027,author score:99.30|intact-miscore:0.37,YMR212C,YLR332W
+19014,uniprotkb:Q03921,uniprotkb:P19807,author score:98.75|intact-miscore:0.37,YDR141C,YGL077C
+19015,uniprotkb:Q03921,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YDR141C,YHR094C
+19017,uniprotkb:Q03921,uniprotkb:P38310,author score:99.35|intact-miscore:0.37,YDR141C,YBR207W
+19018,uniprotkb:P50276,uniprotkb:Q03921,author score:99.30|intact-miscore:0.37,YGR055W,YDR141C
+19019,uniprotkb:Q03921,uniprotkb:P53283,author score:99.24|intact-miscore:0.37,YDR141C,YGR138C
+19042,uniprotkb:P14359,uniprotkb:Q04383,author score:99.00|intact-miscore:0.37,YJL151C,YDR501W
+19043,uniprotkb:Q04383,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YDR501W,YGL077C
+19045,uniprotkb:Q04383,uniprotkb:P26570,author score:99.00|intact-miscore:0.37,YDR501W,YML016C
+19046,uniprotkb:P30605,uniprotkb:Q04383,author score:98.72|intact-miscore:0.37,YDR497C,YDR501W
+19047,uniprotkb:Q04383,uniprotkb:P32465,author score:99.00|intact-miscore:0.37,YDR501W,YHR094C
+19048,uniprotkb:Q04383,uniprotkb:P32568,author score:99.28|intact-miscore:0.37,YDR501W,YDR011W
+19049,uniprotkb:P35735,uniprotkb:Q04383,author score:99.00|intact-miscore:0.37,YKL051W,YDR501W
+19055,uniprotkb:Q04383,uniprotkb:P40474,author score:99.00|intact-miscore:0.37,YDR501W,YIL121W
+19058,uniprotkb:Q04383,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YDR501W,YGR055W
+19059,uniprotkb:P53049,uniprotkb:Q04383,author score:97.60|intact-miscore:0.37,YGR281W,YDR501W
+19060,uniprotkb:P53283,uniprotkb:Q04383,author score:97.60|intact-miscore:0.37,YGR138C,YDR501W
+19061,uniprotkb:P53388,uniprotkb:Q04383,author score:99.00|intact-miscore:0.37,YPL265W,YDR501W
+19062,uniprotkb:Q04383,uniprotkb:P53390,author score:99.00|intact-miscore:0.37,YDR501W,YPR138C
+19063,uniprotkb:Q04383,uniprotkb:P53832,author score:99.00|intact-miscore:0.37,YDR501W,YNL283C
+19064,uniprotkb:Q02785,uniprotkb:Q04383,author score:99.32|intact-miscore:0.37,YPL058C,YDR501W
+19065,uniprotkb:Q03640,uniprotkb:Q04383,author score:99.00|intact-miscore:0.37,YML072C,YDR501W
+19067,uniprotkb:Q06689,uniprotkb:Q04383,author score:98.72|intact-miscore:0.37,YLR413W,YDR501W
+19068,uniprotkb:Q04383,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YDR501W,YLL028W
+19069,uniprotkb:Q08967,uniprotkb:Q04383,author score:99.28|intact-miscore:0.37,YPL221W,YDR501W
+19070,uniprotkb:Q12256,uniprotkb:Q04383,author score:99.32|intact-miscore:0.37,YOR273C,YDR501W
+19076,uniprotkb:Q04439,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YMR109W,YLR332W
+19087,uniprotkb:Q04949,uniprotkb:P36027,author score:98.72|intact-miscore:0.37,YMR299C,YLR332W
+19088,uniprotkb:Q04949,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YMR299C,YGR055W
+19090,uniprotkb:Q02785,uniprotkb:Q04949,author score:99.00|intact-miscore:0.37,YPL058C,YMR299C
+19200,uniprotkb:Q07651,uniprotkb:P10823,author score:99.00|intact-miscore:0.37,YDL222C,YER020W
+19202,uniprotkb:P19807,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YGL077C,YDL222C
+19204,uniprotkb:Q07651,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YDL222C,YCR021C
+19206,uniprotkb:P30605,uniprotkb:Q07651,author score:99.26|intact-miscore:0.37,YDR497C,YDL222C
+19207,uniprotkb:P32465,uniprotkb:Q07651,author score:99.31|intact-miscore:0.37,YHR094C,YDL222C
+19208,uniprotkb:P32568,uniprotkb:Q07651,author score:99.30|intact-miscore:0.37,YDR011W,YDL222C
+19209,uniprotkb:P33302,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YOR153W,YDL222C
+19211,uniprotkb:P35735,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YKL051W,YDL222C
+19212,uniprotkb:Q07651,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YDL222C,YLR332W
+19216,uniprotkb:Q07651,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YDL222C,YBR052C
+19217,uniprotkb:P38695,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YHR096C,YDL222C
+19220,uniprotkb:Q07651,uniprotkb:P40485,author score:99.00|intact-miscore:0.37,YDL222C,YIL105C
+19224,uniprotkb:Q07651,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YDL222C,YGR055W
+19225,uniprotkb:Q07651,uniprotkb:P53139,author score:99.28|intact-miscore:0.37,YDL222C,YGL108C
+19226,uniprotkb:Q07651,uniprotkb:P53278,author score:99.00|intact-miscore:0.37,YDL222C,YGR130C
+19227,uniprotkb:Q07651,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YDL222C,YGR138C
+19228,uniprotkb:P53390,uniprotkb:Q07651,author score:97.53|intact-miscore:0.37,YPR138C,YDL222C
+19230,uniprotkb:Q02785,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YPL058C,YDL222C
+19232,uniprotkb:Q07651,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YDL222C,YML072C
+19236,uniprotkb:Q06451,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YPR156C,YDL222C
+19237,uniprotkb:Q07651,uniprotkb:Q07651,author score:99.00|intact-miscore:0.37,YDL222C,YDL222C
+19238,uniprotkb:Q07651,uniprotkb:Q08967,author score:97.54|intact-miscore:0.37,YDL222C,YPL221W
+19240,uniprotkb:Q07651,uniprotkb:Q12256,author score:99.00|intact-miscore:0.37,YDL222C,YOR273C
+19247,uniprotkb:Q07824,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YLL028W,YGL077C
+19248,uniprotkb:P32465,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YHR094C,YLL028W
+19249,uniprotkb:P32568,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YDR011W,YLL028W
+19251,uniprotkb:Q07824,uniprotkb:P33302,author score:99.00|intact-miscore:0.37,YLL028W,YOR153W
+19253,uniprotkb:Q07824,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YLL028W,YKL051W
+19254,uniprotkb:P36027,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YLR332W,YLL028W
+19255,uniprotkb:P38234,uniprotkb:Q07824,author score:99.30|intact-miscore:0.37,YBR052C,YLL028W
+19256,uniprotkb:Q07824,uniprotkb:P38695,author score:99.00|intact-miscore:0.37,YLL028W,YHR096C
+19257,uniprotkb:Q07824,uniprotkb:P48231,author score:99.31|intact-miscore:0.37,YLL028W,YNL087W
+19258,uniprotkb:Q07824,uniprotkb:P50276,author score:99.00|intact-miscore:0.37,YLL028W,YGR055W
+19259,uniprotkb:Q07824,uniprotkb:P53283,author score:99.00|intact-miscore:0.37,YLL028W,YGR138C
+19260,uniprotkb:P53388,uniprotkb:Q07824,author score:99.31|intact-miscore:0.37,YPL265W,YLL028W
+19261,uniprotkb:Q07824,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YLL028W,YPL058C
+19262,uniprotkb:Q07824,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YLL028W,YML072C
+19266,uniprotkb:Q06451,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YPR156C,YLL028W
+19267,uniprotkb:Q07824,uniprotkb:Q06689,author score:99.00|intact-miscore:0.37,YLL028W,YLR413W
+19268,uniprotkb:Q07651,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YDL222C,YLL028W
+19269,uniprotkb:Q07824,uniprotkb:Q07824,author score:99.00|intact-miscore:0.37,YLL028W,YLL028W
+19323,uniprotkb:P36027,uniprotkb:Q12057,author score:99.00|intact-miscore:0.37,YLR332W,YOR104W
+19346,uniprotkb:P10823,uniprotkb:Q12215,author score:99.00|intact-miscore:0.37,YER020W,YOL105C
+19347,uniprotkb:Q12215,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YOL105C,YGL077C
+19348,uniprotkb:P36027,uniprotkb:Q12215,author score:99.00|intact-miscore:0.37,YLR332W,YOL105C
+19349,uniprotkb:Q12215,uniprotkb:P38234,author score:99.00|intact-miscore:0.37,YOL105C,YBR052C
+19351,uniprotkb:Q12215,uniprotkb:P50276,author score:98.75|intact-miscore:0.37,YOL105C,YGR055W
+19352,uniprotkb:P53832,uniprotkb:Q12215,author score:98.73|intact-miscore:0.37,YNL283C,YOL105C
+19353,uniprotkb:Q12215,uniprotkb:Q02785,author score:99.27|intact-miscore:0.37,YOL105C,YPL058C
+19354,uniprotkb:Q12215,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YOL105C,YML072C
+19355,uniprotkb:Q12215,uniprotkb:Q07651,author score:99.35|intact-miscore:0.37,YOL105C,YDL222C
+19358,uniprotkb:Q12230,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YPL004C,YGL077C
+19362,uniprotkb:P26570,uniprotkb:Q12230,author score:99.00|intact-miscore:0.37,YML016C,YPL004C
+19363,uniprotkb:Q12230,uniprotkb:P30605,author score:99.00|intact-miscore:0.37,YPL004C,YDR497C
+19364,uniprotkb:Q12230,uniprotkb:P32324,author score:99.00|intact-miscore:0.37,YPL004C,YOR133W
+19366,uniprotkb:Q12230,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YPL004C,YLR332W
+19372,uniprotkb:P50276,uniprotkb:Q12230,author score:99.00|intact-miscore:0.37,YGR055W,YPL004C
+19374,uniprotkb:P53278,uniprotkb:Q12230,author score:99.00|intact-miscore:0.37,YGR130C,YPL004C
+19379,uniprotkb:Q08967,uniprotkb:Q12230,author score:99.00|intact-miscore:0.37,YPL221W,YPL004C
+19380,uniprotkb:Q12230,uniprotkb:Q12256,author score:98.00|intact-miscore:0.37,YPL004C,YOR273C
+19382,uniprotkb:Q12256,uniprotkb:P10823,author score:99.27|intact-miscore:0.37,YOR273C,YER020W
+19383,uniprotkb:Q12256,uniprotkb:P19807,author score:99.00|intact-miscore:0.37,YOR273C,YGL077C
+19384,uniprotkb:Q12256,uniprotkb:P25619,author score:99.00|intact-miscore:0.37,YOR273C,YCR021C
+19385,uniprotkb:Q12256,uniprotkb:P35735,author score:99.30|intact-miscore:0.37,YOR273C,YKL051W
+19386,uniprotkb:Q12256,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YOR273C,YLR332W
+19387,uniprotkb:P53049,uniprotkb:Q12256,author score:85.04|intact-miscore:0.37,YGR281W,YOR273C
+19388,uniprotkb:P53278,uniprotkb:Q12256,author score:97.60|intact-miscore:0.37,YGR130C,YOR273C
+19389,uniprotkb:Q12256,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YOR273C,YPL058C
+19390,uniprotkb:Q12256,uniprotkb:Q03640,author score:99.28|intact-miscore:0.37,YOR273C,YML072C
+19391,uniprotkb:Q08967,uniprotkb:Q12256,author score:99.00|intact-miscore:0.37,YPL221W,YOR273C
+19392,uniprotkb:P25293,uniprotkb:Q12263,author score:99.25|intact-miscore:0.92,YKR048C,YDR507C
+19393,uniprotkb:Q12263,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YDR507C,YLR332W
+19394,uniprotkb:Q12263,uniprotkb:Q02785,author score:99.36|intact-miscore:0.37,YDR507C,YPL058C
+19430,uniprotkb:P10823,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YER020W,YDR032C
+19431,uniprotkb:P19807,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YGL077C,YDR032C
+19432,uniprotkb:P25623,uniprotkb:Q12335,author score:98.00|intact-miscore:0.37,YCR030C,YDR032C
+19433,uniprotkb:Q12335,uniprotkb:P26570,author score:99.00|intact-miscore:0.37,YDR032C,YML016C
+19434,uniprotkb:Q12335,uniprotkb:P35735,author score:99.00|intact-miscore:0.37,YDR032C,YKL051W
+19435,uniprotkb:Q12335,uniprotkb:P36027,author score:99.00|intact-miscore:0.37,YDR032C,YLR332W
+19440,uniprotkb:P50276,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YGR055W,YDR032C
+19441,uniprotkb:Q12335,uniprotkb:P53049,author score:99.00|intact-miscore:0.37,YDR032C,YGR281W
+19442,uniprotkb:P53139,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YGL108C,YDR032C
+19443,uniprotkb:P53278,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YGR130C,YDR032C
+19444,uniprotkb:P53390,uniprotkb:Q12335,author score:99.31|intact-miscore:0.37,YPR138C,YDR032C
+19445,uniprotkb:P53832,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YNL283C,YDR032C
+19446,uniprotkb:Q12335,uniprotkb:Q02201,author score:97.53|intact-miscore:0.37,YDR032C,YKR003W
+19447,uniprotkb:Q12335,uniprotkb:Q02785,author score:99.00|intact-miscore:0.37,YDR032C,YPL058C
+19448,uniprotkb:Q12335,uniprotkb:Q03640,author score:99.00|intact-miscore:0.37,YDR032C,YML072C
+19451,uniprotkb:Q06689,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YLR413W,YDR032C
+19452,uniprotkb:Q07651,uniprotkb:Q12335,author score:97.40|intact-miscore:0.37,YDL222C,YDR032C
+19453,uniprotkb:Q08967,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YPL221W,YDR032C
+19454,uniprotkb:Q12256,uniprotkb:Q12335,author score:99.00|intact-miscore:0.37,YOR273C,YDR032C
+19471,uniprotkb:Q12446,uniprotkb:Q12446,author score:99.00|intact-miscore:0.37,YOR181W,YOR181W
+19498,uniprotkb:Q03640,uniprotkb:Q12466,author score:99.00|intact-miscore:0.37,YML072C,YOR086C
+19510,uniprotkb:P36027,uniprotkb:Q12675,author score:99.28|intact-miscore:0.37,YLR332W,YDR093W
+19573,uniprotkb:P48415,uniprotkb:P15303,intact-miscore:0.63,YPL085W,YPR181C
+19585,uniprotkb:P40350,uniprotkb:P40350,intact-miscore:0.37,YPL227C,YPL227C
+19612,uniprotkb:Q12466,uniprotkb:P48231,intact-miscore:0.37,YOR086C,YNL087W
+19614,uniprotkb:Q03640,uniprotkb:P48231,intact-miscore:0.37,YML072C,YNL087W
+19741,uniprotkb:Q07732,uniprotkb:Q07732,intact-miscore:0.37,YDL239C,YDL239C
+19900,uniprotkb:P00359,uniprotkb:P00359,intact-miscore:0.40,YGR192C,YGR192C
+19911,uniprotkb:P25651,uniprotkb:P32502,intact-miscore:0.37,YCR086W,YLR291C
+19999,uniprotkb:P48232,uniprotkb:P35727,intact-miscore:0.67,YNL086W,YKL061W
+20084,uniprotkb:Q07887,uniprotkb:Q06410,intact-miscore:0.37,YLL049W,YLR423C
+20093,uniprotkb:P43582,uniprotkb:P32502,intact-miscore:0.37,YFL010C,YLR291C
+20096,uniprotkb:P32502,uniprotkb:Q06410,intact-miscore:0.37,YLR291C,YLR423C
+20155,uniprotkb:P53297,uniprotkb:P38828,intact-miscore:0.67,YGR178C,YHR121W
+20260,uniprotkb:P53939,uniprotkb:Q08229,intact-miscore:0.77,YNL078W,YOL070C
+20272,uniprotkb:P53919,uniprotkb:P53919,intact-miscore:0.37,YNL124W,YNL124W
+20400,uniprotkb:P32502,uniprotkb:P32502,intact-miscore:0.37,YLR291C,YLR291C
+20426,uniprotkb:P32502,uniprotkb:Q12335,intact-miscore:0.37,YLR291C,YDR032C
+20475,uniprotkb:P38835,uniprotkb:P39940,intact-miscore:0.68,YHR131C,YER125W
+20476,uniprotkb:P39984,uniprotkb:Q12341,intact-miscore:0.77,YEL056W,YPL001W
+20480,uniprotkb:Q12335,uniprotkb:P38234,intact-miscore:0.75,YDR032C,YBR052C
+20487,uniprotkb:P32502,uniprotkb:P54861,intact-miscore:0.37,YLR291C,YLL001W
+20509,uniprotkb:Q06410,uniprotkb:P46682,intact-miscore:0.37,YLR423C,YGR261C
+20512,uniprotkb:P32502,uniprotkb:P39940,intact-miscore:0.37,YLR291C,YER125W
+20514,uniprotkb:P32502,uniprotkb:P32318,intact-miscore:0.37,YLR291C,YGR144W
+20535,uniprotkb:Q06410,uniprotkb:P53267,intact-miscore:0.55,YLR423C,YGR113W
+20665,uniprotkb:Q12329,uniprotkb:Q12329,intact-miscore:0.37,YDR171W,YDR171W
+20670,uniprotkb:Q06592,uniprotkb:Q06592,intact-miscore:0.66,YPR193C,YPR193C
+20747,uniprotkb:P32318,uniprotkb:P40185,intact-miscore:0.37,YGR144W,YIL051C
+20766,uniprotkb:P53953,uniprotkb:P15303,intact-miscore:0.68,YNL049C,YPR181C
+20816,uniprotkb:P38968,uniprotkb:Q04491,intact-miscore:0.84,YDL195W,YLR208W
+20881,uniprotkb:Q06410,uniprotkb:P40485,intact-miscore:0.37,YLR423C,YIL105C
+20999,uniprotkb:Q06410,uniprotkb:Q06410,intact-miscore:0.37,YLR423C,YLR423C
+21001,uniprotkb:P40482,uniprotkb:P38968,intact-miscore:0.72,YIL109C,YDL195W
+21014,uniprotkb:P32318,uniprotkb:P32318,intact-miscore:0.55,YGR144W,YGR144W
+21036,uniprotkb:Q02821,uniprotkb:P32318,intact-miscore:0.37,YNL189W,YGR144W
+21113,uniprotkb:P25293,uniprotkb:P25293,intact-miscore:0.77,YKR048C,YKR048C
+21340,uniprotkb:P11353,uniprotkb:P11353,intact-miscore:0.37,YDR044W,YDR044W
+21584,uniprotkb:P25344,uniprotkb:Q06810,intact-miscore:0.40,YCL032W,YPR075C
+21612,uniprotkb:P41909,uniprotkb:P34230,intact-miscore:0.52,YPL147W,YKL188C
+21676,uniprotkb:P07251,uniprotkb:P00830,intact-miscore:0.70,YBL099W,YJR121W
+21834,uniprotkb:P40073,uniprotkb:Q08229,intact-miscore:0.44,YER118C,YOL070C
+21898,uniprotkb:P47068,uniprotkb:P43614,intact-miscore:0.44,YJL020C,YFR042W
+21899,uniprotkb:P43614,uniprotkb:P04821,intact-miscore:0.44,YFR042W,YLR310C
+21903,uniprotkb:P04821,uniprotkb:P53279,intact-miscore:0.44,YLR310C,YGR131W
+21947,uniprotkb:P04821,uniprotkb:P24482,intact-miscore:0.44,YLR310C,YPR175W
+21999,uniprotkb:P29366,uniprotkb:Q04439,intact-miscore:0.31,YBR200W,YMR109W
+22002,uniprotkb:Q12446,uniprotkb:P29366,intact-miscore:0.31,YOR181W,YBR200W
+22010,uniprotkb:P29366,uniprotkb:P48415,intact-miscore:0.31,YBR200W,YPL085W
+22118,uniprotkb:Q99271,uniprotkb:P40073,intact-miscore:0.31,YLR138W,YER118C
+22123,uniprotkb:P40073,uniprotkb:P53953,intact-miscore:0.31,YER118C,YNL049C
+22128,uniprotkb:P43603,uniprotkb:P39955,intact-miscore:0.31,YFR024C-A,YER047C
+22198,uniprotkb:P47068,uniprotkb:Q12329,intact-miscore:0.31,YJL020C,YDR171W
+22268,uniprotkb:P39113,uniprotkb:Q04439,intact-miscore:0.31,YMR280C,YMR109W
+22342,uniprotkb:Q00955,uniprotkb:P47068,intact-miscore:0.37,YNR016C,YJL020C
+22345,uniprotkb:P47068,uniprotkb:P09119,intact-miscore:0.46,YJL020C,YJL194W
+22350,uniprotkb:Q04149,uniprotkb:P47068,intact-miscore:0.37,YDR386W,YJL020C
+22358,uniprotkb:Q07887,uniprotkb:P29366,intact-miscore:0.37,YLL049W,YBR200W
+22565,uniprotkb:P09119,uniprotkb:P43603,intact-miscore:0.59,YJL194W,YFR024C-A
+22580,uniprotkb:P43603,uniprotkb:Q04439,intact-miscore:0.37,YFR024C-A,YMR109W
+22638,uniprotkb:Q00955,uniprotkb:Q04439,intact-miscore:0.37,YNR016C,YMR109W
+22643,uniprotkb:Q12446,uniprotkb:Q04439,intact-miscore:0.81,YOR181W,YMR109W
+22656,uniprotkb:Q04949,uniprotkb:Q04439,intact-miscore:0.37,YMR299C,YMR109W
+22663,uniprotkb:Q04439,uniprotkb:Q08229,intact-miscore:0.37,YMR109W,YOL070C
+22748,uniprotkb:P40073,uniprotkb:Q12446,intact-miscore:0.78,YER118C,YOR181W
+22860,uniprotkb:Q03653,uniprotkb:P29366,intact-miscore:0.37,YMR212C,YBR200W
+22976,uniprotkb:P43603,uniprotkb:Q12446,intact-miscore:0.92,YFR024C-A,YOR181W
+22979,uniprotkb:P25623,uniprotkb:P43603,intact-miscore:0.55,YCR030C,YFR024C-A
+22982,uniprotkb:P43582,uniprotkb:P43603,intact-miscore:0.37,YFL010C,YFR024C-A
+23014,uniprotkb:Q04439,uniprotkb:P40344,intact-miscore:0.37,YMR109W,YNR007C
+23015,uniprotkb:Q04439,uniprotkb:P47068,intact-miscore:0.84,YMR109W,YJL020C
+23017,uniprotkb:P32486,uniprotkb:Q04439,intact-miscore:0.37,YPR159W,YMR109W
+23020,uniprotkb:Q04439,uniprotkb:P39955,intact-miscore:0.58,YMR109W,YER047C
+23071,uniprotkb:P38316,uniprotkb:P38316,intact-miscore:0.40,YBR217W,YBR217W
+23121,uniprotkb:P25623,uniprotkb:P36027,intact-miscore:0.57,YCR030C,YLR332W
+23122,uniprotkb:P25623,uniprotkb:P25623,intact-miscore:0.59,YCR030C,YCR030C
+23123,uniprotkb:P34216,uniprotkb:P25623,intact-miscore:0.81,YBL047C,YCR030C
+23129,uniprotkb:P25651,uniprotkb:P25651,intact-miscore:0.67,YCR086W,YCR086W
+23140,uniprotkb:P53973,uniprotkb:P53973,intact-miscore:0.74,YNL021W,YNL021W
+23159,uniprotkb:Q04439,uniprotkb:Q04439,intact-miscore:0.85,YMR109W,YMR109W
+23187,uniprotkb:P0CG63,uniprotkb:P39940,intact-miscore:0.44,YLL039C,YER125W
+23206,uniprotkb:Q00416,uniprotkb:Q06523,intact-miscore:0.37,YLR430W,YPR148C
+23402,uniprotkb:P38361,uniprotkb:P38361,intact-miscore:0.56,YBR296C,YBR296C
+23421,uniprotkb:P00546,uniprotkb:P09119,intact-miscore:0.44,YBR160W,YJL194W
+23475,uniprotkb:P46672,uniprotkb:P46655,intact-miscore:0.78,YGL105W,YGL245W
+23476,uniprotkb:P46672,uniprotkb:P00958,intact-miscore:0.84,YGL105W,YGR264C
+23527,uniprotkb:P38074,uniprotkb:Q99383,intact-miscore:0.37,YBR034C,YOL123W
+23554,uniprotkb:P38074,uniprotkb:P38074,intact-miscore:0.65,YBR034C,YBR034C
+23796,uniprotkb:P25293,uniprotkb:P53939,intact-miscore:0.81,YKR048C,YNL078W
+23798,uniprotkb:Q08229,uniprotkb:P29366,intact-miscore:0.61,YOL070C,YBR200W
+24087,uniprotkb:P00925,uniprotkb:Q05947,intact-miscore:0.40,YHR174W,YLR224W
+24095,uniprotkb:P00546,uniprotkb:P20438,intact-miscore:0.89,YBR160W,YPL256C
+24162,uniprotkb:P38270,uniprotkb:Q02948,intact-miscore:0.83,YBR128C,YPL120W
+24169,uniprotkb:P35729,uniprotkb:P35729,intact-miscore:0.53,YKL057C,YKL057C
+24172,uniprotkb:P49687,uniprotkb:P49687,intact-miscore:0.37,YGL092W,YGL092W
+24184,uniprotkb:P46673,uniprotkb:P53011,intact-miscore:0.92,YJR042W,YGL100W
+24234,uniprotkb:Q03921,uniprotkb:Q03921,intact-miscore:0.54,YDR141C,YDR141C
+24255,uniprotkb:P40474,uniprotkb:P53278,intact-miscore:0.37,YIL121W,YGR130C
+24258,uniprotkb:Q12057,uniprotkb:P53278,intact-miscore:0.37,YOR104W,YGR130C
+24270,uniprotkb:P35735,uniprotkb:P19454,intact-miscore:0.37,YKL051W,YOR061W
+24274,uniprotkb:P26570,uniprotkb:P19454,intact-miscore:0.37,YML016C,YOR061W
+24275,uniprotkb:Q03640,uniprotkb:P53278,intact-miscore:0.37,YML072C,YGR130C
+24281,uniprotkb:Q02785,uniprotkb:P19454,intact-miscore:0.37,YPL058C,YOR061W
+24284,uniprotkb:P53049,uniprotkb:P53278,intact-miscore:0.37,YGR281W,YGR130C
+24302,uniprotkb:P26570,uniprotkb:P53278,intact-miscore:0.37,YML016C,YGR130C
+24307,uniprotkb:P38234,uniprotkb:P19454,intact-miscore:0.37,YBR052C,YOR061W
+24312,uniprotkb:P53832,uniprotkb:P53278,intact-miscore:0.37,YNL283C,YGR130C
+24317,uniprotkb:P19807,uniprotkb:P19454,intact-miscore:0.37,YGL077C,YOR061W
+24319,uniprotkb:P36027,uniprotkb:P15790,intact-miscore:0.37,YLR332W,YIL035C
+24324,uniprotkb:P38234,uniprotkb:P53278,intact-miscore:0.37,YBR052C,YGR130C
+24326,uniprotkb:P32582,uniprotkb:P53278,intact-miscore:0.37,YGR155W,YGR130C
+24332,uniprotkb:P53390,uniprotkb:P53278,intact-miscore:0.37,YPR138C,YGR130C
+24339,uniprotkb:P36027,uniprotkb:P19454,intact-miscore:0.37,YLR332W,YOR061W
+24359,uniprotkb:P53139,uniprotkb:P53278,intact-miscore:0.37,YGL108C,YGR130C
+24363,uniprotkb:P53278,uniprotkb:Q08967,intact-miscore:0.37,YGR130C,YPL221W
+24364,uniprotkb:P36027,uniprotkb:Q12443,intact-miscore:0.37,YLR332W,YDL204W
+24369,uniprotkb:P35735,uniprotkb:Q02201,intact-miscore:0.37,YKL051W,YKR003W
+24370,uniprotkb:P53283,uniprotkb:Q08967,intact-miscore:0.37,YGR138C,YPL221W
+24381,uniprotkb:Q12329,uniprotkb:Q12443,intact-miscore:0.37,YDR171W,YDL204W
+24385,uniprotkb:P36027,uniprotkb:P14359,intact-miscore:0.37,YLR332W,YJL151C
+24393,uniprotkb:Q03640,uniprotkb:Q02201,intact-miscore:0.37,YML072C,YKR003W
+24394,uniprotkb:Q12057,uniprotkb:P38310,intact-miscore:0.37,YOR104W,YBR207W
+24395,uniprotkb:P38756,uniprotkb:P32582,intact-miscore:0.37,YHR003C,YGR155W
+24397,uniprotkb:P26570,uniprotkb:Q02201,intact-miscore:0.37,YML016C,YKR003W
+24399,uniprotkb:P26570,uniprotkb:Q12443,intact-miscore:0.37,YML016C,YDL204W
+24404,uniprotkb:P53049,uniprotkb:Q02201,intact-miscore:0.37,YGR281W,YKR003W
+24405,uniprotkb:Q12256,uniprotkb:Q02201,intact-miscore:0.55,YOR273C,YKR003W
+24410,uniprotkb:Q04410,uniprotkb:P14359,intact-miscore:0.37,YDR517W,YJL151C
+24411,uniprotkb:P36027,uniprotkb:P38310,intact-miscore:0.37,YLR332W,YBR207W
+24418,uniprotkb:P19807,uniprotkb:P38310,intact-miscore:0.37,YGL077C,YBR207W
+24436,uniprotkb:P30605,uniprotkb:P38310,intact-miscore:0.37,YDR497C,YBR207W
+24440,uniprotkb:P53278,uniprotkb:Q12443,intact-miscore:0.37,YGR130C,YDL204W
+24450,uniprotkb:Q08967,uniprotkb:P38310,intact-miscore:0.37,YPL221W,YBR207W
+24466,uniprotkb:Q03640,uniprotkb:Q12443,intact-miscore:0.37,YML072C,YDL204W
+24467,uniprotkb:P54861,uniprotkb:Q12443,intact-miscore:0.37,YLL001W,YDL204W
+24469,uniprotkb:P32582,uniprotkb:Q12443,intact-miscore:0.37,YGR155W,YDL204W
+24474,uniprotkb:Q06689,uniprotkb:Q08967,intact-miscore:0.37,YLR413W,YPL221W
+24493,uniprotkb:P36027,uniprotkb:P17898,intact-miscore:0.37,YLR332W,YNL130C
+24506,uniprotkb:P53390,uniprotkb:Q02201,intact-miscore:0.37,YPR138C,YKR003W
+24508,uniprotkb:P53283,uniprotkb:Q02201,intact-miscore:0.37,YGR138C,YKR003W
+24541,uniprotkb:Q04410,uniprotkb:Q04410,intact-miscore:0.40,YDR517W,YDR517W
+24543,uniprotkb:P15303,uniprotkb:Q04410,intact-miscore:0.78,YPR181C,YDR517W
+24546,uniprotkb:P40073,uniprotkb:P40073,intact-miscore:0.37,YER118C,YER118C
+24591,uniprotkb:P15790,uniprotkb:P15790,author score:0.63|intact-miscore:0.57,YIL035C,YIL035C
+24794,uniprotkb:P19454,uniprotkb:P15790,author score:1|intact-miscore:0.91,YOR061W,YIL035C
+24899,uniprotkb:Q99257,uniprotkb:Q12159,intact-miscore:0.59,YPL169C,YDR381W
+24906,uniprotkb:P00925,uniprotkb:P21269,intact-miscore:0.56,YHR174W,YER168C
+24949,uniprotkb:P39007,uniprotkb:P39007,intact-miscore:0.40,YGL022W,YGL022W
+25147,uniprotkb:P50874,uniprotkb:P54791,intact-miscore:0.79,YNL261W,YPR162C
+25148,uniprotkb:P54790,uniprotkb:P32833,intact-miscore:0.76,YLL004W,YBR060C
+25303,uniprotkb:P54861,uniprotkb:P54861,intact-miscore:0.70,YLL001W,YLL001W
+25336,uniprotkb:P40482,uniprotkb:P15303,intact-miscore:0.78,YIL109C,YPR181C
+25391,uniprotkb:P42935,uniprotkb:P42935,intact-miscore:0.40,YGR200C,YGR200C
+25405,uniprotkb:P32833,uniprotkb:P38826,intact-miscore:0.77,YBR060C,YHR118C
+25406,uniprotkb:P54784,uniprotkb:P38826,intact-miscore:0.74,YML065W,YHR118C
+25504,uniprotkb:Q12449,uniprotkb:P02829,intact-miscore:0.96,YDR214W,YPL240C
+25540,uniprotkb:P09119,uniprotkb:P54784,intact-miscore:0.65,YJL194W,YML065W
+25541,uniprotkb:P09119,uniprotkb:P32833,intact-miscore:0.65,YJL194W,YBR060C
+25542,uniprotkb:P09119,uniprotkb:P54790,intact-miscore:0.65,YJL194W,YLL004W
+25543,uniprotkb:P09119,uniprotkb:P54791,intact-miscore:0.65,YJL194W,YPR162C
+25544,uniprotkb:P09119,uniprotkb:P50874,intact-miscore:0.65,YJL194W,YNL261W
+25545,uniprotkb:P09119,uniprotkb:P38826,intact-miscore:0.65,YJL194W,YHR118C
+25686,uniprotkb:P49687,uniprotkb:P53011,intact-miscore:0.81,YGL092W,YGL100W
+25687,uniprotkb:P35729,uniprotkb:P52891,intact-miscore:0.91,YKL057C,YDL116W
+25688,uniprotkb:P35729,uniprotkb:P53011,intact-miscore:0.91,YKL057C,YGL100W
+25689,uniprotkb:P35729,uniprotkb:P46673,intact-miscore:0.95,YKL057C,YJR042W
+25690,uniprotkb:P49687,uniprotkb:P46673,intact-miscore:0.92,YGL092W,YJR042W
+25691,uniprotkb:P35729,uniprotkb:P49687,intact-miscore:0.95,YKL057C,YGL092W
+25692,uniprotkb:P35729,uniprotkb:Q04491,intact-miscore:0.88,YKL057C,YLR208W
+25693,uniprotkb:P49687,uniprotkb:Q04491,intact-miscore:0.97,YGL092W,YLR208W
+25705,uniprotkb:P09733,uniprotkb:P42935,intact-miscore:0.40,YML085C,YGR200C
+25823,uniprotkb:P06786,uniprotkb:P06786,intact-miscore:0.83,YNL088W,YNL088W
+25916,uniprotkb:P07257,uniprotkb:P07256,ist:11|core:true|intact-miscore:0.73,YPR191W,YBL045C
+25951,uniprotkb:P38080,uniprotkb:P38080,ist:4|core:true|intact-miscore:0.37,YBR059C,YBR059C
+26019,uniprotkb:P20486,uniprotkb:P00546,ist:2|core:false|intact-miscore:0.84,YBR135W,YBR160W
+26052,uniprotkb:Q06410,uniprotkb:P38316,ist:3|core:true|intact-miscore:0.55,YLR423C,YBR217W
+26115,uniprotkb:P25344,uniprotkb:P38080,ist:1|core:false|intact-miscore:0.37,YCL032W,YBR059C
+26116,uniprotkb:P23561,uniprotkb:P25344,ist:25|core:true|intact-miscore:0.85,YLR362W,YCL032W
+26117,uniprotkb:Q06410,uniprotkb:P25344,ist:19|core:true|intact-miscore:0.37,YLR423C,YCL032W
+26118,uniprotkb:O13582,uniprotkb:P25344,ist:1|core:false|intact-miscore:0.37,YPR076W,YCL032W
+26224,uniprotkb:P49687,uniprotkb:P52891,ist:2|core:false|intact-miscore:0.95,YGL092W,YDL116W
+26344,uniprotkb:Q06410,uniprotkb:Q07732,ist:34|core:true|intact-miscore:0.55,YLR423C,YDL239C
+26482,uniprotkb:P38829,uniprotkb:Q05583,ist:8|core:true|intact-miscore:0.77,YHR122W,YDR267C
+26675,uniprotkb:P04147,uniprotkb:Q99257,intact-miscore:0.40,YER165W,YPL169C
+26815,uniprotkb:P09733,uniprotkb:P02557,intact-miscore:0.36,YML085C,YFL037W
+26914,uniprotkb:Q08234,uniprotkb:P00925,intact-miscore:0.37,YOL075C,YHR174W
+26932,uniprotkb:Q08234,uniprotkb:P33302,intact-miscore:0.49,YOL075C,YOR153W
+26940,uniprotkb:Q08409,uniprotkb:P40474,intact-miscore:0.37,YOR011W,YIL121W
+26941,uniprotkb:Q08409,uniprotkb:P38695,intact-miscore:0.49,YOR011W,YHR096C
+26944,uniprotkb:Q08409,uniprotkb:P30605,intact-miscore:0.37,YOR011W,YDR497C
+26948,uniprotkb:Q08409,uniprotkb:P08525,intact-miscore:0.37,YOR011W,YJL166W
+26952,uniprotkb:Q08409,uniprotkb:P39520,intact-miscore:0.37,YOR011W,YLR223C
+26961,uniprotkb:Q02785,uniprotkb:P33302,intact-miscore:0.62,YPL058C,YOR153W
+26970,uniprotkb:Q02785,uniprotkb:P02557,intact-miscore:0.55,YPL058C,YFL037W
+27004,uniprotkb:P41909,uniprotkb:P16474,intact-miscore:0.37,YPL147W,YJL034W
+27006,uniprotkb:P41909,uniprotkb:P14540,intact-miscore:0.37,YPL147W,YKL060C
+27007,uniprotkb:P41909,uniprotkb:P00925,intact-miscore:0.37,YPL147W,YHR174W
+27018,uniprotkb:P41909,uniprotkb:P0CS90,intact-miscore:0.37,YPL147W,YJR045C
+27021,uniprotkb:P41909,uniprotkb:P02994,intact-miscore:0.37,YPL147W,YBR118W
+27029,uniprotkb:P34230,uniprotkb:P46672,intact-miscore:0.37,YKL188C,YGL105W
+27034,uniprotkb:P34230,uniprotkb:P32582,intact-miscore:0.37,YKL188C,YGR155W
+27037,uniprotkb:P34230,uniprotkb:P00925,intact-miscore:0.37,YKL188C,YHR174W
+27038,uniprotkb:P34230,uniprotkb:P14540,intact-miscore:0.37,YKL188C,YKL060C
+27042,uniprotkb:P34230,uniprotkb:P46655,intact-miscore:0.37,YKL188C,YGL245W
+27048,uniprotkb:P34230,uniprotkb:P04147,intact-miscore:0.37,YKL188C,YER165W
+27066,uniprotkb:P34230,uniprotkb:P34167,intact-miscore:0.37,YKL188C,YPR163C
+27067,uniprotkb:P34230,uniprotkb:P10081,intact-miscore:0.37,YKL188C,YJL138C
+27068,uniprotkb:P34230,uniprotkb:P02994,intact-miscore:0.37,YKL188C,YBR118W
+27086,uniprotkb:P39109,uniprotkb:P14540,intact-miscore:0.37,YDR135C,YKL060C
+27089,uniprotkb:P39109,uniprotkb:P04147,intact-miscore:0.37,YDR135C,YER165W
+27098,uniprotkb:P32568,uniprotkb:P33302,intact-miscore:0.62,YDR011W,YOR153W
+27100,uniprotkb:P39109,uniprotkb:P46672,intact-miscore:0.37,YDR135C,YGL105W
+27108,uniprotkb:P39109,uniprotkb:P34167,intact-miscore:0.37,YDR135C,YPR163C
+27209,uniprotkb:Q02201,uniprotkb:P38755,intact-miscore:0.55,YKR003W,YHR001W
+27213,uniprotkb:P40088,uniprotkb:P38310,intact-miscore:0.37,YER145C,YBR207W
+27251,uniprotkb:Q06451,uniprotkb:P53283,intact-miscore:0.55,YPR156C,YGR138C
+27286,uniprotkb:P38310,uniprotkb:P38310,intact-miscore:0.55,YBR207W,YBR207W
+27295,uniprotkb:Q12449,uniprotkb:Q12449,intact-miscore:0.37,YDR214W,YDR214W
+27310,uniprotkb:P53278,uniprotkb:P53278,intact-miscore:0.37,YGR130C,YGR130C
+27320,uniprotkb:P09435,uniprotkb:P09435,intact-miscore:0.37,YBL075C,YBL075C
+27333,uniprotkb:P30605,uniprotkb:P30605,intact-miscore:0.55,YDR497C,YDR497C
+27341,uniprotkb:P43603,uniprotkb:P43603,intact-miscore:0.67,YFR024C-A,YFR024C-A
+27342,uniprotkb:Q12443,uniprotkb:Q12443,intact-miscore:0.55,YDL204W,YDL204W
+27345,uniprotkb:Q12675,uniprotkb:Q12675,intact-miscore:0.37,YDR093W,YDR093W
+27354,uniprotkb:P40485,uniprotkb:P40485,intact-miscore:0.76,YIL105C,YIL105C
+27360,uniprotkb:P53283,uniprotkb:P53283,intact-miscore:0.37,YGR138C,YGR138C
+27386,uniprotkb:P23900,uniprotkb:P23900,intact-miscore:0.55,YLL043W,YLL043W
+27390,uniprotkb:P14359,uniprotkb:P14359,intact-miscore:0.55,YJL151C,YJL151C
+27398,uniprotkb:Q12335,uniprotkb:Q12335,intact-miscore:0.75,YDR032C,YDR032C
+27402,uniprotkb:P40088,uniprotkb:P40088,intact-miscore:0.37,YER145C,YER145C
+27414,uniprotkb:P19454,uniprotkb:P19454,intact-miscore:0.68,YOR061W,YOR061W
+27431,uniprotkb:Q06689,uniprotkb:Q06689,intact-miscore:0.37,YLR413W,YLR413W
+27438,uniprotkb:P17898,uniprotkb:P17898,intact-miscore:0.55,YNL130C,YNL130C
+27439,uniprotkb:Q02201,uniprotkb:Q02201,intact-miscore:0.37,YKR003W,YKR003W
+27441,uniprotkb:Q06451,uniprotkb:Q06451,intact-miscore:0.37,YPR156C,YPR156C
+27443,uniprotkb:P53390,uniprotkb:P53390,intact-miscore:0.55,YPR138C,YPR138C
+27453,uniprotkb:P40185,uniprotkb:P40185,intact-miscore:0.37,YIL051C,YIL051C
+27457,uniprotkb:P26570,uniprotkb:P26570,intact-miscore:0.55,YML016C,YML016C
+27458,uniprotkb:P33302,uniprotkb:P33302,intact-miscore:0.71,YOR153W,YOR153W
+27459,uniprotkb:P32324,uniprotkb:P32324,intact-miscore:0.57,YOR133W,YOR133W
+27461,uniprotkb:P38695,uniprotkb:P38695,intact-miscore:0.55,YHR096C,YHR096C
+27469,uniprotkb:Q00955,uniprotkb:Q00955,intact-miscore:0.59,YNR016C,YNR016C
+27470,uniprotkb:P02829,uniprotkb:P02829,intact-miscore:0.94,YPL240C,YPL240C
+27553,uniprotkb:Q01519,uniprotkb:P07143,intact-miscore:0.61,YLR038C,YOR065W
+27554,uniprotkb:Q01519,uniprotkb:P00163,intact-miscore:0.61,YLR038C,Q0105
+27555,uniprotkb:Q01519,uniprotkb:P37299,intact-miscore:0.61,YLR038C,YHR001W-A
+27556,uniprotkb:Q01519,uniprotkb:P07256,intact-miscore:0.61,YLR038C,YBL045C
+27557,uniprotkb:Q01519,uniprotkb:P07257,intact-miscore:0.61,YLR038C,YPR191W
+27558,uniprotkb:Q01519,uniprotkb:P00127,intact-miscore:0.61,YLR038C,YFR033C
+27559,uniprotkb:Q01519,uniprotkb:P00128,intact-miscore:0.61,YLR038C,YDR529C
+27560,uniprotkb:Q01519,uniprotkb:P08525,intact-miscore:0.61,YLR038C,YJL166W
+27561,uniprotkb:Q01519,uniprotkb:P22289,intact-miscore:0.61,YLR038C,YGR183C
+27564,uniprotkb:Q01519,uniprotkb:P08067,intact-miscore:0.61,YLR038C,YEL024W
+27975,uniprotkb:P32324,uniprotkb:P05317,intact-miscore:0.62,YOR133W,YLR340W
