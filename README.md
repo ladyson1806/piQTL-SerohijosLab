@@ -8,6 +8,9 @@ This repository contains the full computational pipeline, downstream analysis mo
 >
 > Interactive data portal: [ladyson1806.github.io/piQTL-SerohijosLab](https://ladyson1806.github.io/piQTL-SerohijosLab/)
 
+[![DOI](https://zenodo.org/badge/1238377380.svg)](https://doi.org/10.5281/zenodo.21069963)
+
+
 ---
 
 ## Overview
